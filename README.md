@@ -8,3 +8,4 @@
   <a href="https://www.linkedin.com/in/jonatan-villalva-fullstack-developer" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 <h1 align="center">Bienvenidos al curso de HTML</h1>
+<h5 align="center">Este curso de HTML desde cero, te llevará a dominar tanto los conceptos básicos como los avanzados de este lenguaje de marcado, el cual es fundamental para el desarrollo web. Desde los fundamentos hasta un nivel avanzado, esta formación está dirigida a principiantes absolutos, guiándolos en un recorrido educativo que culmina en la capacidad de crear páginas web completas y bien estructuradas.</h5>
