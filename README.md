@@ -4,6 +4,6 @@
   <a href="https://www.youtube.com/@jonadeveloper" target="_blank"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
   <a href="https://www.threads.net/@jona.dev_ok" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/threads-000?&style=for-the-badge&logo=threads&logoColor=white" /></a>  
   <a href="https://twitter.com/jonadeveloper" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=x&logoColor=white" /></a>  
-  <a href="https://www.linkedin.com/@jonadev1990" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/jonatan-villalva-fullstack-developer" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 <h1 align="center">Bienvenidos al curso de HTML</h1>
