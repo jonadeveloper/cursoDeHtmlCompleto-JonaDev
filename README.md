@@ -10,3 +10,19 @@
 <h1 align="center">Bienvenidos al curso de HTML</h1>
     
 <p align="center"><em>Este curso de HTML desde cero, te llevará a dominar tanto los conceptos básicos como los avanzados de este lenguaje, el cual es fundamental para el desarrollo web. Desde los fundamentos hasta un nivel avanzado. Ideal si buscan desarrollar la capacidad de crear páginas web completas y bien estructuradas. El curso es de contenido teorico-practico y los videos de cada clase van a estar en mi canal de youtube.</em></p>
+
+<h2 align="center">Requerimientos para llevar a cabo el curso</h2>
+
+<h3>Conocimientos:</h3>
+<p>En cuanto a conocimientos. No se requiere conocimientro previo en HTML ni otras habilidades. Pero si se requiere un conocimiento basico en uso de computadoras.</p>
+
+<h3>Herramientas:</h3>
+<ul>
+  <li>
+    Navegador web: Te recomiendo instalar Chrome. Aunque cualquiera que tengas te va a servir. <a href="https://www.google.com/chrome/?brand=FKPE&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQuFy9MyVBP5MF-B0bEOjjBoll-ohVlicfu1evA5nghrAKKuCo85tqgaAms0EALw_wcB&gclsrc=aw.ds" target= "_blank">Descargar</a>
+  </li>
+  <li>
+    Editor de codigo: Te recomiendo Visual Studio Code. Te va a ser muy util tanto para este curso, como para tu trabajo diario.
+    <a href="https://code.visualstudio.com/download" target= "_blank">Descargar</a>
+  </li>
+</ul>
