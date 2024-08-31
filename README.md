@@ -9,4 +9,4 @@
 </div>
 <h1 align="center">Bienvenidos al curso de HTML</h1>
     
-*Este curso de HTML desde cero, te llevará a dominar tanto los conceptos básicos como los avanzados de este lenguaje, el cual es fundamental para el desarrollo web. Desde los fundamentos hasta un nivel avanzado. Ideal si buscan desarrollar la capacidad de crear páginas web completas y bien estructuradas. El curso es de contenido teorico-practico y los videos de cada clase van a estar en mi canal de youtube.*
+<p align="center"><em>Este curso de HTML desde cero, te llevará a dominar tanto los conceptos básicos como los avanzados de este lenguaje, el cual es fundamental para el desarrollo web. Desde los fundamentos hasta un nivel avanzado. Ideal si buscan desarrollar la capacidad de crear páginas web completas y bien estructuradas. El curso es de contenido teorico-practico y los videos de cada clase van a estar en mi canal de youtube.</em></p>
