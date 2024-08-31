@@ -20,10 +20,13 @@
 <ul>
   <li>
     Navegador web: Te recomiendo instalar Chrome. Aunque cualquiera que tengas te va a servir. 
-    <a href="https://www.google.com/chrome/?brand=FKPE&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQuFy9MyVBP5MF-B0bEOjjBoll-ohVlicfu1evA5nghrAKKuCo85tqgaAms0EALw_wcB&gclsrc=aw.ds" target="_blank"><em>Descargar</em></a>
+    <a href="https://www.google.com/chrome/?brand=FKPE&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQuFy9MyVBP5MF-B0bEOjjBoll-ohVlicfu1evA5nghrAKKuCo85tqgaAms0EALw_wcB&gclsrc=aw.ds" target="_blank"><em>Descargar</em></a>.
   </li>
   <li>
     Editor de codigo: Te recomiendo Visual Studio Code. Te va a ser muy util tanto para este curso, como para tu trabajo diario.
-    <a href="https://code.visualstudio.com/download" target="_blank"><em>Descargar</em></a>
+    <a href="https://code.visualstudio.com/download" target="_blank"><em>Descargar</em></a>.
+  </li>
+  <li>
+    Git/GitHub : Si bien no es del todo necesario. Seria bueno que te empieces a familiarizar con estas herramientas. Ademas en este repo, te voy a dejar recursos, ejercicios y el proyecto final realizado. <a href="https://git-scm.com/downloads" target="_blank">Instala Git en tu equipo</a> y <a href="https://github.com/" target="_blank">Crea tu cuenta de GitHub</a>.
   </li>
 </ul>
