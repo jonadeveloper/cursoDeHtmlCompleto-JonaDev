@@ -8,4 +8,25 @@
   <a href="https://www.linkedin.com/in/jonatan-villalva-fullstack-developer" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
 <h1 align="center">Bienvenidos al curso de HTML</h1>
-<p align="center">Este curso de HTML desde cero, te llevará a dominar tanto los conceptos básicos como los avanzados de este lenguaje, el cual es fundamental para el desarrollo web. Desde los fundamentos hasta un nivel avanzado, esta formación está dirigida a principiantes que buscan desarrollar la capacidad de crear páginas web completas y bien estructuradas. El curso es de contenido teorico-practico y los videos de cada clase van a estar en mi canal de youtube. Si bien no es obligatorio verlos, les van ser de mucha ayuda para llevar a cabo los ejercicios y proyectos propuestos.</p>
+    
+<p align="center"><em>Este curso de HTML desde cero, te llevará a dominar tanto los conceptos básicos como los avanzados de este lenguaje, el cual es fundamental para el desarrollo web. Desde los fundamentos hasta un nivel avanzado. Ideal si buscan desarrollar la capacidad de crear páginas web completas y bien estructuradas. El curso es de contenido teorico-practico y los videos de cada clase van a estar en mi canal de youtube.</em></p>
+
+<h2 align="center">Requerimientos para llevar a cabo el curso</h2> 
+
+<h3>Conocimientos:</h3>
+<p>En cuanto a conocimientos. No se requiere conocimientro previo en HTML ni otras habilidades. Pero si se requiere un conocimiento basico en uso de computadoras.</p>
+
+<h3>Herramientas:</h3>
+<ul>
+  <li>
+    Navegador web: Te recomiendo instalar Chrome. Aunque cualquiera que tengas te va a servir. 
+    <a href="https://www.google.com/chrome/?brand=FKPE&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQuFy9MyVBP5MF-B0bEOjjBoll-ohVlicfu1evA5nghrAKKuCo85tqgaAms0EALw_wcB&gclsrc=aw.ds" target="_blank"><em>Descargar</em></a>.
+  </li>
+  <li>
+    Editor de codigo: Te recomiendo Visual Studio Code. Te va a ser muy util tanto para este curso, como para tu trabajo diario.
+    <a href="https://code.visualstudio.com/download" target="_blank"><em>Descargar</em></a>.
+  </li>
+  <li>
+    Git/GitHub : Si bien no es del todo necesario. Seria bueno que te empieces a familiarizar con estas herramientas. Ademas en este repo, te voy a dejar recursos, ejercicios y el proyecto final realizado. <a href="https://git-scm.com/downloads" target="_blank"><em>Instala Git en tu equipo</em></a> y <a href="https://github.com/" target="_blank"><em>Crea tu cuenta de GitHub</em></a>.
+  </li>
+</ul>
