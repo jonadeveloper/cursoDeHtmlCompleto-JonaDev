@@ -11,7 +11,7 @@
     
 <p align="center"><em>Este curso de HTML desde cero, te llevará a dominar tanto los conceptos básicos como los avanzados de este lenguaje, el cual es fundamental para el desarrollo web. Desde los fundamentos hasta un nivel avanzado. Ideal si buscan desarrollar la capacidad de crear páginas web completas y bien estructuradas. El curso es de contenido teorico-practico y los videos de cada clase van a estar en mi canal de youtube.</em></p>
 
-<h2 align="center">Requerimientos para llevar a cabo el curso</h2>
+<h2 align="center">Requerimientos para llevar a cabo el curso</h2> 
 
 <h3>Conocimientos:</h3>
 <p>En cuanto a conocimientos. No se requiere conocimientro previo en HTML ni otras habilidades. Pero si se requiere un conocimiento basico en uso de computadoras.</p>
