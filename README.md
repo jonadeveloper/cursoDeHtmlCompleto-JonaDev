@@ -19,10 +19,11 @@
 <h3>Herramientas:</h3>
 <ul>
   <li>
-    Navegador web: Te recomiendo instalar Chrome. Aunque cualquiera que tengas te va a servir. <a href="https://www.google.com/chrome/?brand=FKPE&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQuFy9MyVBP5MF-B0bEOjjBoll-ohVlicfu1evA5nghrAKKuCo85tqgaAms0EALw_wcB&gclsrc=aw.ds" target="_blank">Descargar</a>
+    Navegador web: Te recomiendo instalar Chrome. Aunque cualquiera que tengas te va a servir. 
+    <a href="https://www.google.com/chrome/?brand=FKPE&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQuFy9MyVBP5MF-B0bEOjjBoll-ohVlicfu1evA5nghrAKKuCo85tqgaAms0EALw_wcB&gclsrc=aw.ds" target="_blank"><em>Descargar</em></a>
   </li>
   <li>
     Editor de codigo: Te recomiendo Visual Studio Code. Te va a ser muy util tanto para este curso, como para tu trabajo diario.
-    <a href="https://code.visualstudio.com/download" target="_blank">Descargar</a>
+    <a href="https://code.visualstudio.com/download" target="_blank"><em>Descargar</em></a>
   </li>
 </ul>
