@@ -22,3 +22,4 @@
 <br>
 <p>Luego de que se complete la descarga del archivo ejecutable, segui los pasos para completar su instalación.</p>
 <hr>
+<h3>Instala GIT - El sistema de control de versiones:</h3>
