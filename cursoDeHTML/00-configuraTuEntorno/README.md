@@ -26,3 +26,8 @@
 <p>Ingresa al sitio oficial de <a href="https://git-scm.com/">GIT</a>. Vas a ver una recomendación de descarga a tu derecha. Esto sucede porque git detecta desde que sistema operativo estas ingresando y te recomienda la descarga mas conveniente para dicho sistema. Dale click al boton de descarga y segui los pasos para completar la descarga.</p>
 
 ![Diseño sin título (2)](https://github.com/user-attachments/assets/4c6b73f0-7f27-4fc9-a650-7143a45352c6)
+<br>
+<p>Una vez que este instalado van a ver dos opciones d ejecutar git en su equipo. Deben ejecutar la opcion de git bash y se va a abrir una terminal con la que van a poder trabajar.</p>
+
+https://github.com/user-attachments/assets/c503dbfa-c35b-4825-af9a-07ece851e488
+
