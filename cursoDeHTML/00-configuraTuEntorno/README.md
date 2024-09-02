@@ -98,3 +98,11 @@ cat ~/.ssh/id_rsa.pub
 <p>En el menú de la izquierda, selecciona SSH and GPG keys y luego New SSH key. Pega tu clave pública en el campo Key y dale un título. Por ultimo dale click a Add SSH key</p>
 
 ![Diseño sin título (5)](https://github.com/user-attachments/assets/1e10dc22-9709-473c-b242-7e356357152b)
+
+<p>Para verifica que todo este funcionando correctamente ejecuta:</p>
+
+```bash
+ssh -T git@github.com
+```
+
+<p>Si todo está bien, deberías ver un mensaje de bienvenida desde GitHub.</p>
