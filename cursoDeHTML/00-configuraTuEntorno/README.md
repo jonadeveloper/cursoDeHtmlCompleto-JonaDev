@@ -51,3 +51,9 @@ git config --global --list
 ```
 
 <p>Esto debería mostrar el nombre y correo electrónico que configuraste.</p>
+
+<p>Paso 3: Conectar GitHub usando SSH. En la terminal o Git Bash, ejecuta el siguiente comando para generar una nueva clave SSH:</p>
+
+```bash
+ssh-keygen -t ed25519 -C "tuemail@ejemplo.com"
+```
