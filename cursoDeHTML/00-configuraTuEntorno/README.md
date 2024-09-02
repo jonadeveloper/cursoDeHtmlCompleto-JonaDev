@@ -49,3 +49,5 @@ git config --global user.email "tuemail@ejemplo.com"
 ```bash
 git config --global --list
 ```
+
+<p>Esto debería mostrar el nombre y correo electrónico que configuraste.</p>
