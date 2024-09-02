@@ -14,9 +14,11 @@
 
 <br>
 <p align="center"><strong>TE RECOMIENDO ESTABLECER EL NAVEGADOR INSTALADO COMO PREDETERMINADO.</strong></p>
-<br>
 <hr>
 <h3>Instala el editor Visual Studio Code:</h3>
 <p>Ingresa al sitio oficial de <a href="https://code.visualstudio.com/download">Visual Studio Code</a>, selecciona tu sistema operativo y dale click en el boton de descarga.</p>
 
 ![WhatsApp Image 2024-09-01 at 22 46 06](https://github.com/user-attachments/assets/1b17d2de-5538-47c8-9c86-aa4f2be8ae9c)
+<br>
+<p>Luego de que se complete la descarga del archivo ejecutable, segui los pasos para completar su instalación.</p>
+<hr>
