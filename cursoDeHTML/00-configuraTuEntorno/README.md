@@ -29,7 +29,10 @@
 <br>
 <p>Una vez que este instalado van a ver dos opciones d ejecutar git en su equipo. Deben ejecutar la opcion de git bash y se va a abrir una terminal con la que van a poder trabajar.</p>
 <h3>Configuración de GIT:</h3>
-<p>Una vez que la instalación de GIT haya terminado, abri la terminal de Git Bash, copia y ejecuta el siguiente comando:</p>
+<p>Paso 1: Una vez que la instalación de GIT haya terminado, abri la terminal de Git Bash, copia y ejecuta el siguiente comando:</p>
 
 ```bash
 git --version
+```
+
+<p>Esto deberia mostrarte la versión de Git instalada</p>
