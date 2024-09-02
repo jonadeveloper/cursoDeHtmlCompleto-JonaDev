@@ -113,3 +113,9 @@ ssh -T git@github.com
 <p>Ingresa al sitio oficial de <a href="https://nodejs.org/en">Node.js</a>, dale click en el boton de descarga y segui los pasos para completar la descarga.</p>
 
 ![Diseño sin título (6)](https://github.com/user-attachments/assets/1d1d099a-2f1d-4a83-abb6-28dfcd4b8267)
+
+<p>Una vez que se complete la descarga consulta la version ejecutando el siguiente comando para verificar que se haya instalado correctamente: </p>
+
+```bash
+node --version
+```
