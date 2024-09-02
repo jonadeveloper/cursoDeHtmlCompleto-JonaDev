@@ -119,3 +119,5 @@ ssh -T git@github.com
 ```bash
 node --version
 ```
+
+<h3 align="center">ACLARACIÓN: <em>Si bien Node no es 1oo% indispensable para desarrollar este curso ni mucho menos para desarrollar proyectos en HTML, si va a ser necesario para testear los ejercicios que voy a dejarles de practica. Ademas, seria bueno para ustedes tener configurado su entorno de trabajo desde ya para futuros proyectos mas avanzados.</em></h3>
