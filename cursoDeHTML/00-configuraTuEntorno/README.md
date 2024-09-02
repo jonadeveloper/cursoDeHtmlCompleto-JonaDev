@@ -106,3 +106,5 @@ ssh -T git@github.com
 ```
 
 <p>Si todo está bien, deberías ver un mensaje de bienvenida desde GitHub.</p>
+
+<h5>Listo!! Ahora has conectado exitosamente GitHub con la terminal de Git en tu equipo, y vas a poder trabajar con tus repositorios remotos directamente desde la línea de comandos.</h5>
