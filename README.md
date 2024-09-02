@@ -26,7 +26,4 @@
     Editor de codigo: Te recomiendo Visual Studio Code. Te va a ser muy util tanto para este curso, como para tu trabajo diario.
     <a href="https://code.visualstudio.com/download" target="_blank"><em>Descargar</em></a>.
   </li>
-  <li>
-    Git/GitHub : Si bien no es del todo necesario. Seria bueno que te empieces a familiarizar con estas herramientas. Ademas en este repo, te voy a dejar recursos, ejercicios y el proyecto final realizado. <a href="https://git-scm.com/downloads" target="_blank"><em>Instala Git en tu equipo</em></a> y <a href="https://github.com/" target="_blank"><em>Crea tu cuenta de GitHub</em></a>.
-  </li>
 </ul>
