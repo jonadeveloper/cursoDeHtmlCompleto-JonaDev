@@ -57,3 +57,24 @@ git config --global --list
 ```bash
 ssh-keygen -t ed25519 -C "tuemail@ejemplo.com"
 ```
+
+<p>Si tu sistema no soporta ed25519, podes usar rsa:</p>
+
+```bash
+ssh-keygen -t rsa -b 4096 -C "tuemail@ejemplo.com"
+```
+
+<p>El sistema te va a pedir que elijas una ubicación para guardar la clave (puedes presionar Enter para aceptar la ubicación predeterminada) y que ingreses una frase de seguridad (esto ultimo es opcional).</p>
+<br>
+<p>Asegúrate de que el agente SSH esté en funcionamiento, luego agrega tu clave SSH generada:</p>
+
+```bash
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+```
+
+<p>Si usaste rsa, el comando sería:</p>
+
+```bash
+ssh-add ~/.ssh/id_rsa
+```
