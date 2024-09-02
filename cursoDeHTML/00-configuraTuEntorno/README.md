@@ -78,3 +78,19 @@ ssh-add ~/.ssh/id_ed25519
 ```bash
 ssh-add ~/.ssh/id_rsa
 ```
+<br>
+<p>Agregar la clave SSH a tu cuenta de GitHub. Copia la clave pública generada:</p>
+
+```bash
+cat ~/.ssh/id_ed25519.pub
+```
+
+<p>Si usaste rsa:</p>
+
+```bash
+cat ~/.ssh/id_rsa.pub
+```
+
+<p>Copia el contenido que se muestra en la terminal y inicia sesión en tu cuenta de GitHub. En la ezquina superior derecha dale click a tu foto de perfil y selecciona settings</p>
+
+![Diseño sin título (4)](https://github.com/user-attachments/assets/b6af2d6e-3297-4251-b694-0b59f87bec34)
