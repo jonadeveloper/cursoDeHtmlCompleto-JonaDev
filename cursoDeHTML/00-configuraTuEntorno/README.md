@@ -8,3 +8,9 @@
 <p>Cualquier navegador web te va a ser util para trabajar. Pero, mi recomendación es utilizar chrome. <br> Ingresa al sitio oficial de <a href="https://www.google.com/intl/es-419/chrome/dr/download/?brand=JJTC&gad_source=1&gclid=CjwKCAjwodC2BhAHEiwAE67hJO4VoiLaELcAmk7-YmwOcfvJzNhBvpVX4AhphuZGXcLa3EAwKUCA7xoCRW0QAvD_BwE&gclsrc=aw.ds">google chrome</a> y dale click en el boton de descarga.</p>
 
 ![WhatsApp Image 2024-09-01 at 22 03 50](https://github.com/user-attachments/assets/546e6950-b8c0-4ac5-a3b0-b03c02422533)
+<p>Luego de que se complete la descarga del archivo ejecutable, segui los pasos de la siguiente pagina. Una vez que completes los pasos estas listo para empezar a utilizar el navegador. </p>
+
+![Diseño sin título](https://github.com/user-attachments/assets/ef862f45-34ff-4306-a3cc-23aa4a1801b3)
+
+<br>
+<p align="center"><strong>TE RECOMIENDO ESTABLECER EL NAVEGADOR INSTALADO COMO PREDETERMINADO.</strong></p>
