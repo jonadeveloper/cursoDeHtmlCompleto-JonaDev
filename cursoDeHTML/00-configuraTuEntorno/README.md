@@ -110,6 +110,6 @@ ssh -T git@github.com
 <h5>Listo!! Ahora has conectado exitosamente GitHub con la terminal de Git en tu equipo, y vas a poder trabajar con tus repositorios remotos directamente desde la línea de comandos.</h5>
 
 <h3>Por ultimo, pero igualmente importante. Instala Node.js:</h3>
-<p>Ingresa al sitio oficial de <a href="https://nodejs.org/en">Node.js</a> y dale click en el boton de descarga.</p>
+<p>Ingresa al sitio oficial de <a href="https://nodejs.org/en">Node.js</a>, dale click en el boton de descarga y segui los pasos para completar la descarga.</p>
 
 ![Diseño sin título (6)](https://github.com/user-attachments/assets/1d1d099a-2f1d-4a83-abb6-28dfcd4b8267)
