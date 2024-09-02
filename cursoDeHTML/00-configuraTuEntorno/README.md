@@ -36,3 +36,16 @@ git --version
 ```
 
 <p>Esto deberia mostrarte la versión de Git instalada</p>
+<br>
+<p>Paso 2: Configura GIT con tu información de usuario. Ejecuta el siguiente comando en la terminal de bash para configurar tu nombre de usuario y correo electrónico, que serán usados en tus commits:</p>
+
+```bash
+git config --global user.name "Tu Nombre"
+git config --global user.email "tuemail@ejemplo.com"
+```
+
+<p>Verifica la configuración ejecutando:</p>
+
+```bash
+git config --global --list
+```
