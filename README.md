@@ -29,9 +29,8 @@
 </ul>
 
 <h2 align="center">Que vas a aprender...</h2> 
-
-<p align="center"><em>A lo largo de este curso vamos a hacer un recorrido desde lo mas basico hasta lo mas complejo, cubriendo asi todas las caracteristicas del lenguaje. El curso va a estar dividido en diferentes secciones, las cuales son:</em></p>
-
+<p align="center"><em>A lo largo de este curso vamos a hacer un recorrido desde lo mas basico hasta lo mas complejo, cubriendo asi todas las caracteristicas del lenguaje. El curso va a estar dividido en diferentes secciones y niveles. Ademas, vamos a terminar con un proyecto final que va a integrar todo lo aprendido. Veamos cada uno de estos puntos.</em></p>
+<br>
 <h3>1 - Fundamentos de HTML - Nivel principiante</h3>
 <p>En esta primera parte vamos a abordar los fundamentos del lenguaje. Vamos a hacer un recorrido por los siguiente temas:</p>
 <ul>
