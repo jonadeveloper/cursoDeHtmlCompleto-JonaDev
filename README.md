@@ -31,3 +31,26 @@
 <h2 align="center">Que vas a aprender...</h2> 
 
 <p align="center"><em>A lo largo de este curso vamos a hacer un recorrido desde lo mas basico hasta lo mas complejo, cubriendo asi todas las caracteristicas del lenguaje. El curso va a estar dividido en diferentes secciones, las cuales son:</em></p>
+
+<h3>1 - Fundamentos de HTML - Nivel principiante</h3>
+<p>En esta primera parte vamos a abordar los fundamentos del lenguaje. Vamos a hacer un recorrido por los siguiente temas:</p>
+<ul>
+  <li>
+    Que es HTML y como funciona.
+  </li>
+  <li>
+    Estructura basica de un documento HTML.
+  </li>
+  <li>
+    Etiquetas basicas de HTML.
+  </li>
+  <li>
+    Listas.
+  </li>
+  <li>
+    Tablas.
+  </li>
+  <li>
+    Formularios.
+  </li>
+</ul>
