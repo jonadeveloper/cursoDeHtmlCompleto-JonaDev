@@ -77,7 +77,7 @@
   </li>
 </ul>
 
-<h3>2 - Optimización, rendimiento y buenas practicas - Nivel avanzado</h3>
+<h3>3 - Optimización, rendimiento y buenas practicas - Nivel avanzado</h3>
 <p>En este utimo nivel vamos a ir hacia la optimización, rendimiento y buenas practicas. Vamos a poner en practica los siguientes temas:</p>
 <ul>
   <li>
