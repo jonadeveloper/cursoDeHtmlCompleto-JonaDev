@@ -54,3 +54,26 @@
     Formularios.
   </li>
 </ul>
+
+<h3>2 - semantica de HTML - intermedio</h3>
+<p>En esta seccióm vamos a avanzar hacia la semantica del lenguaje. Los temas que vamos a abordar son:</p>
+<ul>
+  <li>
+    Etiquetas semanticas.
+  </li>
+  <li>
+    Formularios avanzados.
+  </li>
+  <li>
+    Enlaces internos y externos.
+  </li>
+  <li>
+    Multimedia.
+  </li>
+  <li>
+    Accesibilidad.
+  </li>
+  <li>
+    SEO basico.
+  </li>
+</ul>
