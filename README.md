@@ -29,3 +29,5 @@
 </ul>
 
 <h2 align="center">Que vas a aprender...</h2> 
+
+<p align="center"><em>A lo largo de este curso vamos a hacer un recorrido desde lo mas basico hasta lo mas complejo, cubriendo asi todas las caracteristicas del lenguaje. El curso va a estar dividido en diferentes secciones, las cuales son:</em></p>
