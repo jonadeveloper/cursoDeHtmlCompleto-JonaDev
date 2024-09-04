@@ -55,7 +55,7 @@
   </li>
 </ul>
 
-<h3>2 - semantica de HTML - intermedio</h3>
+<h3>2 - semantica de HTML - Nivel intermedio</h3>
 <p>En esta seccióm vamos a avanzar hacia la semantica del lenguaje. Los temas que vamos a abordar son:</p>
 <ul>
   <li>
