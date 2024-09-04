@@ -55,7 +55,7 @@
 </ul>
 
 <h3>2 - semantica de HTML - Nivel intermedio</h3>
-<p>En esta seccióm vamos a avanzar hacia la semantica del lenguaje. Los temas que vamos a abordar son:</p>
+<p>En esta sección vamos a avanzar hacia la semantica del lenguaje. Los temas que vamos a abordar son:</p>
 <ul>
   <li>
     Etiquetas semanticas.
@@ -74,5 +74,28 @@
   </li>
   <li>
     SEO basico.
+  </li>
+</ul>
+
+<h3>2 - Optimización, rendimiento y buenas practicas - Nivel avanzado</h3>
+<p>En este utimo nivel vamos a ir hacia la optimización, rendimiento y buenas practicas. Vamos a poner en practica los siguientes temas:</p>
+<ul>
+  <li>
+    Nuevas caracteristicas de HTML.
+  </li>
+  <li>
+    Almacenamiento local y cookies.
+  </li>
+  <li>
+    Elementos graficos.
+  </li>
+  <li>
+    Integración con CSS y JavaScript.
+  </li>
+  <li>
+    Optimización del rendimiento.
+  </li>
+  <li>
+    Buenas prácticas en el uso de HTML.
   </li>
 </ul>
