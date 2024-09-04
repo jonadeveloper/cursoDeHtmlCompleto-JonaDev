@@ -27,3 +27,5 @@
     <a href="https://code.visualstudio.com/download" target="_blank"><em>Descargar</em></a>.
   </li>
 </ul>
+
+<h2 align="center">Que vas a aprender...</h2> 
