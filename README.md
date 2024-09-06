@@ -100,4 +100,4 @@
   </li>
 </ul>
 <h3>4 - Proyecto final.</h3>
-<p>Como proyecto final vamos a integrar todos los conocimientos adquiridos a lo largo de este curso para desarrollar un portfolio personal y profesional.</p>
+<p>Como proyecto final vamos a integrar todos los conocimientos adquiridos a lo largo de este curso para desarrollar un portfolio personal y profesional. Mas adelante, veremos mas a detalle de que trata este proyecto.</p>
