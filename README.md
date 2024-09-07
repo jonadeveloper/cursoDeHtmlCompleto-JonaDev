@@ -99,5 +99,8 @@
     Buenas prácticas en el uso de HTML.
   </li>
 </ul>
+
 <h3>4 - Proyecto final.</h3>
 <p>Como proyecto final vamos a integrar todos los conocimientos adquiridos a lo largo de este curso para desarrollar un portfolio personal y profesional. Mas adelante, veremos mas a detalle de que trata este proyecto.</p>
+
+<h3>5 - Ejercicios de practica (testing integrado).</h3>
