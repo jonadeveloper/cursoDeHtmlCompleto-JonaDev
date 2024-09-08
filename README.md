@@ -26,7 +26,81 @@
     Editor de codigo: Te recomiendo Visual Studio Code. Te va a ser muy util tanto para este curso, como para tu trabajo diario.
     <a href="https://code.visualstudio.com/download" target="_blank"><em>Descargar</em></a>.
   </li>
+</ul>
+
+<h2 align="center">Que vas a aprender...</h2> 
+<p align="center"><em>A lo largo de este curso vamos a hacer un recorrido desde lo mas basico hasta lo mas complejo, cubriendo asi todas las caracteristicas del lenguaje. El curso va a estar dividido en diferentes secciones y niveles. Ademas, vamos a terminar con un proyecto final que va a integrar todo lo aprendido. Veamos cada uno de estos puntos.</em></p>
+<br>
+<h3>1 - Fundamentos de HTML - Nivel principiante</h3>
+<p>En esta primera parte vamos a abordar los fundamentos del lenguaje. Vamos a hacer un recorrido por los siguiente temas:</p>
+<ul>
   <li>
-    Git/GitHub : Si bien no es del todo necesario. Seria bueno que te empieces a familiarizar con estas herramientas. Ademas en este repo, te voy a dejar recursos, ejercicios y el proyecto final realizado. <a href="https://git-scm.com/downloads" target="_blank"><em>Instala Git en tu equipo</em></a> y <a href="https://github.com/" target="_blank"><em>Crea tu cuenta de GitHub</em></a>.
+    Que es HTML y como funciona.
+  </li>
+  <li>
+    Estructura basica de un documento HTML.
+  </li>
+  <li>
+    Etiquetas basicas de HTML.
+  </li>
+  <li>
+    Listas.
+  </li>
+  <li>
+    Tablas.
+  </li>
+  <li>
+    Formularios.
   </li>
 </ul>
+
+<h3>2 - semantica de HTML - Nivel intermedio</h3>
+<p>En esta sección vamos a avanzar hacia la semantica del lenguaje. Los temas que vamos a abordar son:</p>
+<ul>
+  <li>
+    Etiquetas semanticas.
+  </li>
+  <li>
+    Formularios avanzados.
+  </li>
+  <li>
+    Enlaces internos y externos.
+  </li>
+  <li>
+    Multimedia.
+  </li>
+  <li>
+    Accesibilidad.
+  </li>
+  <li>
+    SEO basico.
+  </li>
+</ul>
+
+<h3>3 - Optimización, rendimiento y buenas practicas - Nivel avanzado</h3>
+<p>En este utimo nivel vamos a ir hacia la optimización, rendimiento y buenas practicas. Vamos a poner en practica los siguientes temas:</p>
+<ul>
+  <li>
+    Nuevas caracteristicas de HTML.
+  </li>
+  <li>
+    Almacenamiento local y cookies.
+  </li>
+  <li>
+    Elementos graficos.
+  </li>
+  <li>
+    Integración con CSS y JavaScript.
+  </li>
+  <li>
+    Optimización del rendimiento.
+  </li>
+  <li>
+    Buenas prácticas en el uso de HTML.
+  </li>
+</ul>
+
+<h3>4 - Proyecto final.</h3>
+<p>Como proyecto final vamos a integrar todos los conocimientos adquiridos a lo largo de este curso para desarrollar un portfolio personal y profesional. Mas adelante, veremos mas a detalle de que trata este proyecto.</p>
+
+<h3>5 - Ejercicios de practica (testing integrado).</h3>
