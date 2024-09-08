@@ -108,3 +108,5 @@
 
 <h3>6 - Recursos de consulta</h3>
 <p>En esta sección voy a dejar una serie de recursos, a los que van a poder acudir ante cualquier duda que pueda surgir al realizar algun proyecto. Una de las cosas a las que nos tenemos que acostumbrar al realizar proyectos, es consultar documentación. La tecnologia avanza dia a dia y siempre salen nuevas caracteristicas de los lenguajes, bibliotecas y frameworks. Y por supuesto, HTML no es la excepción. No existe ningun curso o capacitación en linea mas confiable que la documentación oficial. Es por eso que siempra va a ser nuestro mejor aliado a la hora de encarar un proyecto.</p>
+
+<h2><em>Habiendo aclarado cada uno de los puntos que componen este curso, comencemos!!!</em></h2>
