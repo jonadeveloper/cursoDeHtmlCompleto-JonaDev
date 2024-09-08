@@ -104,3 +104,4 @@
 <p>Como proyecto final vamos a integrar todos los conocimientos adquiridos a lo largo de este curso para desarrollar un portfolio personal y profesional. Mas adelante, veremos mas a detalle de que trata este proyecto.</p>
 
 <h3>5 - Ejercicios de practica (testing integrado).</h3>
+<p>Voy a dejarles una serie de ejercicios para cada una de las secciones con el fin de reforzar conceptos y buenas practicas. Estos ejercicios van a tener testing integrado para que puedan corroborar que estan correctamente realizados.</p>
