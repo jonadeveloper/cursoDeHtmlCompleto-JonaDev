@@ -105,3 +105,6 @@
 
 <h3>5 - Ejercicios de practica (testing integrado).</h3>
 <p>Voy a dejarles una serie de ejercicios para cada una de las secciones con el fin de reforzar conceptos y buenas practicas. Estos ejercicios van a tener testing integrado para que puedan corroborar que estan correctamente realizados.</p>
+
+<h3>6 - Recursos de consulta</h3>
+<p>En esta sección voy a dejar una serie de recursos, a los que van a poder acudir ante cualquier duda que pueda surgir al realizar algun proyecto. Una de las cosas a las que nos tenemos que acostumbrar al realizar proyectos, es consultar documentación. La tecnologia avanza dia a dia y siempre salen nuevas caracteristicas de los lenguajes, bibliotecas y frameworks. Y por supuesto, HTML no es la excepción. No existe ningun curso o capacitación en linea mas confiable que la documentación oficial. Es por eso que siempra va a ser nuestro mejor aliado a la hora de encarar un proyecto.</p>
