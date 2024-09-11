@@ -2,3 +2,7 @@
 
 <h1 align="center">Comencemos por lo escencial</h1>
 
+<p align="center"><em>En esta primera parte vamos a ocuparnos de entender que es HTML, como funciona y todo lo elemental para comenzar a trabajar.</em></p>
+
+<h3>Que es HTML</h3>
+<p></p>
