@@ -17,3 +17,7 @@
     <strong>Renderizado en tiempo real:</strong> El HTML es interpretado en el momento de ser cargado, lo que permite a los desarrolladores ver los cambios inmediatamente al actualizar la página.
   </li>
 </ol>
+
+![Copia de githubport (3)](https://github.com/user-attachments/assets/3a077dd6-cce1-4944-b294-4edda1bf2bbd)
+
+
