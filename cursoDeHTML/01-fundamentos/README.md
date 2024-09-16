@@ -66,6 +66,14 @@
   </li>
   <li>
     <h3>Body</h3>
-    <p></p>
+    <p>Por ultimo,el body es una etiqueta que define el cuerpo del documento web, es decir, la sección donde se coloca todo el contenido visible que será mostrado en el navegador.</p>
+
+```html
+ 
+<body>
+  <h1>Bienvenidos a mi web</h1>
+</body>
+
+```
   </li>
 </ol>
