@@ -77,3 +77,19 @@
 ```
   </li>
 </ol>
+
+<p>Llegados a este punto, la estructura "basica" deberia estar terminada y deberia verse de la siguiente manera:</p>
+
+```html
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <h1>Bienvenidos a mi web</h1>
+  </body>
+</html>
+
+```
