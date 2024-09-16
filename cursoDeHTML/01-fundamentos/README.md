@@ -78,7 +78,7 @@
   </li>
 </ol>
 
-<p>Llegados a este punto, la estructura "basica" deberia estar terminada y deberia verse de la siguiente manera:</p>
+<p>Llegados a este punto, la estructura <strong>básica</strong> deberia estar terminada y deberia verse de la siguiente manera:</p>
 
 ```html
 
@@ -93,3 +93,5 @@
 </html>
 
 ```
+
+<p>Pero, para continuar tenemos que ver otro concepto de HTML. <strong>Los atributos.</strong></p>
