@@ -53,7 +53,16 @@
   </li>
   <li>
     <h3>Head</h3>
-    <p></p>
+    <p>La etiqueta head es la que contiene los metadatos e información sobre la pagina. Estos datos no son visibles en la web (con una excepción), pero afectan directamente el comportamiento, la presentación y las interacciones del documento.</p>
+
+```html
+ 
+<head>
+  <title>Bienvenidos a mi web</title>
+</head>
+
+```
+    
   </li>
   <li>
     <h3>Body</h3>
