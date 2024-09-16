@@ -26,7 +26,4 @@
 
 <h3>Crea tu primer archivo HTML</h3>
 
-<p>Para empezar a trabajar con HTML, lo primero que vamos a hacer es crear un archivo de la siguiente manera: </p>
-<ol>
-  <li></li>
-</ol>
+<p>Para empezar a trabajar con HTML, lo primero que vamos a hacer es crear un archivo al que llamaremos index.html. El .html es el que indica que tipo de archivo el. Al igual que una imagen puede terminar con .jpg o un archivo de texto plano con .txt.</p>
