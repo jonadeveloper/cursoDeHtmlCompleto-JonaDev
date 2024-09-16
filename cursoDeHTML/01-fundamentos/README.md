@@ -31,3 +31,21 @@
 <h3>Estructura basica de HTML</h3>
 
 <p>Como dijimos anteriormente, HTML trabaja con etiquetas. Cada una tiene un proposito especifico. En esta oportunidad vamos a hablar de las etiquetas que componen la estructura basica de un archivo HTML.</p>
+<ol>
+  <li>
+    <h3>Doctype</h3>
+    <p></p>
+  </li>
+  <li>
+    <h3>Html</h3>
+    <p></p>
+  </li>
+  <li>
+    <h3>Head</h3>
+    <p></p>
+  </li>
+  <li>
+    <h3>Body</h3>
+    <p></p>
+  </li>
+</ol>
