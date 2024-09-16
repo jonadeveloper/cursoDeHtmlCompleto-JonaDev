@@ -43,10 +43,9 @@
   </li>
   <li>
     <h3>Html</h3>
-    <p>La etiqueta html (de apertura y de cierre) es donde inicia y termina nuestro documento. Todo lo que lleva dentro es lo que compone el sitio. Por ende, las dos etiquetas faltantes que componen la estructura(head y body), se ubican dentro de esta.</p>
+    <p>La etiqueta html (de apertura y de cierre) es donde inicia y termina nuestro documento. Envuelve todo el contenido que compone el sitio. Por ende, las dos etiquetas faltantes que componen la estructura(head y body), se ubican dentro de esta.</p>
 
 ```html  
-<!DOCTYPE html>
 <html>
   
 </html>
