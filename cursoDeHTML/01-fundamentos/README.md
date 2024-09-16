@@ -34,7 +34,7 @@
 <ol>
   <li>
     <h3>Doctype</h3>
-    <p>Esta etiqueta es la declaración de version de HTML. Actualmente HTML se encuentra en la version HTML 5. Copia y pega la siguiente linea de codigo en la primer linea de tu archivo html.</p>
+    <p>Esta etiqueta es la declaración de version de HTML. Actualmente HTML se encuentra en la version HTML 5.</p>
     
 ```html  
 <!DOCTYPE html>
@@ -43,7 +43,7 @@
   </li>
   <li>
     <h3>Html</h3>
-    <p>La etiqueta html (de apertura y de cierre) es donde inicia y termina nuestro documento. Envuelve todo el contenido que compone el sitio. Por ende, las dos etiquetas faltantes que componen la estructura(head y body), se ubican dentro de esta. Copia y pega la siguiente linea de codigo debajo del doctype en tu archivo html.</p>
+    <p>La etiqueta html (de apertura y de cierre) es donde inicia y termina nuestro documento. Envuelve todo el contenido que compone el sitio. Por ende, las dos etiquetas faltantes que componen la estructura(head y body), se ubican dentro de esta.</p>
 
 ```html  
 <html>
@@ -53,7 +53,7 @@
   </li>
   <li>
     <h3>Head</h3>
-    <p>La etiqueta head es la que contiene los metadatos e información sobre la pagina. Estos datos no son visibles en la web (con una excepción), pero afectan directamente el comportamiento, la presentación y las interacciones del documento. Copia y pega la siguiente linea de codigo dentro de la etiqueta html en tu archivo html.</p>
+    <p>La etiqueta head es la que contiene los metadatos e información sobre la pagina. Estos datos no son visibles en la web (con una excepción), pero afectan directamente el comportamiento, la presentación y las interacciones del documento.</p>
 
 ```html
  
@@ -66,7 +66,7 @@
   </li>
   <li>
     <h3>Body</h3>
-    <p>Por ultimo,el body es una etiqueta que define el cuerpo del documento web, es decir, la sección donde se coloca todo el contenido visible que será mostrado en el navegador. Copia y pega la siguiente linea de codigo dentro de la etiqueta html y debajo del head en tu archivo html.</p>
+    <p>Por ultimo,el body es una etiqueta que define el cuerpo del documento web, es decir, la sección donde se coloca todo el contenido visible que será mostrado en el navegador.</p>
 
 ```html
  
