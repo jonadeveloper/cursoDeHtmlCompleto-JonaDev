@@ -23,3 +23,10 @@
 <h1 align="center">Empecemos a trabajar</h1>
 
 <p align="center"><em>Vamos de una vez directo a nuestro editor de codigo y pongamos manos a la obra.</em></p>
+
+<h3>Crea tu primer archivo HTML</h3>
+
+<p>Para empezar a trabajar con HTML, lo primero que vamos a hacer es crear un archivo de la siguiente manera: </p>
+<ol>
+  <li></li>
+</ol>
