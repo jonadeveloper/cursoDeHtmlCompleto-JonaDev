@@ -95,3 +95,7 @@
 ```
 
 <p>Pero, para continuar tenemos que ver otro concepto de HTML. <strong>Los atributos.</strong></p>
+
+<h3>Que son los atributos</h3>
+
+<p>Los atributos en HTML son características o propiedades que se aplican a los elementos o etiquetas para proporcionar información adicional o modificar su comportamiento. Estos atributos suelen aparecer dentro de las etiquetas de apertura de los elementos HTML y afectan cómo se muestran o funcionan los elementos en la página web.</p>
