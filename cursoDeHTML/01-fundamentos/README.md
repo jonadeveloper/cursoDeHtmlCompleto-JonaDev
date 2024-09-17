@@ -114,4 +114,6 @@
 
 ```
 
-<p>En este ejemplo, el atributo lang define el idioma español para el documento.</p>
+<p align="center">En este ejemplo, el atributo lang define el idioma español para el documento.</p><br>
+
+<h2 align="center">Etiquetas básicas</h2>
