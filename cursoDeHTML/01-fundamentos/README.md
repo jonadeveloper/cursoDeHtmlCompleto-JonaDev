@@ -116,4 +116,4 @@
 
 <p align="center">En este ejemplo, el atributo lang define el idioma español para el documento.</p><br>
 
-<h2 align="center">Empecemos a ver las etiquetas básicas</h2>
+![Copia de githubport (4)](https://github.com/user-attachments/assets/0c1019f9-bbf1-48b3-be65-2ce477e4f50d)
