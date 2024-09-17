@@ -98,4 +98,20 @@
 
 <h3>Que son los atributos</h3>
 
-<p>Los atributos en HTML son características o propiedades que se aplican a los elementos o etiquetas para proporcionar información adicional o modificar su comportamiento. Estos atributos suelen aparecer dentro de las etiquetas de apertura de los elementos HTML y afectan cómo se muestran o funcionan los elementos en la página web.<br> Aclarado este concepto, vamos a ver cuales son las etiquetas principales de html.</p>
+<p>Los atributos en HTML son características o propiedades que se aplican a los elementos o etiquetas para proporcionar información adicional o modificar su comportamiento. Estos atributos suelen aparecer dentro de las etiquetas de apertura de los elementos HTML y afectan cómo se muestran o funcionan los elementos en la página web. Los atributos se componen por su nombre y su valor entre comillas(""), separados por un signo igual(=). Por ejemplo, la etiqueta <html> cuenta con el atributo lang, el cual define el idioma del documento.</p>
+
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <h1>Bienvenidos a mi web</h1>
+  </body>
+</html>
+
+```
+
+<p>En este ejemplo, el atributo lang define el idioma español para el documento.</p>
