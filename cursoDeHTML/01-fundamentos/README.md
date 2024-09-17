@@ -118,5 +118,7 @@
 
 ![Copia de githubport (4)](https://github.com/user-attachments/assets/0c1019f9-bbf1-48b3-be65-2ce477e4f50d)
 
+<h1 align="center">Comencemos con las primeras etiquetas</h1>
+
 <p align="center"><em>Aunque recien estamos empezando, ya vamos incorporando conceptos. Ya tenemos claro cual es la estructura basica de un documento, que son las etiquetas y los atributos. Sigamos avanzando. Veamos algunas de las etiquetas basicas del lenguaje.</em></p>
 
