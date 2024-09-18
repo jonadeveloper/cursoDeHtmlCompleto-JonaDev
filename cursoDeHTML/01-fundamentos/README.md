@@ -368,3 +368,30 @@
     
   </li>
 </ol>
+
+<h2 align="center">Etiquetas de listas</h2>
+
+<ol>
+  <li>
+    <h3>Listas desordenadas</h3>
+    <p>Estas listas no tienen un orden específico y los elementos son presentados con viñetas.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <ul>
+      <li>Desarrollo Web</li>
+      <li>Programación</li>
+      <li>Diseño UX/UI</li>
+    </ul>
+  </body>
+</html>
+```
+
+  </li>
+</ol>
