@@ -169,6 +169,25 @@
     
   </li>
   <li>
+    <h3>Etiqueta de enlace</h3>
+    <p>Define un hipervínculo que conecta el contenido actual con otra página web, sección del documento, archivo o recurso.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <a href="https://www.instagram.com/jona.dev_ok/">Para estar al tanto de todas las novedades, seguime en instagram</a>
+  </body>
+</html>
+
+```
+    
+  </li>
+  <li>
     <h3>Etiquetas de texto en negrita</h3>
     <p>Las dos etiquetas que veremos a continuación(b , strong), se utilizan para destacar un texto en negrita. Visualmente son iguales, pero con una diferencia semantica que veremos mas adelante.</p>
     
