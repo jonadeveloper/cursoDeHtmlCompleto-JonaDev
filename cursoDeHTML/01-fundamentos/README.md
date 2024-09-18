@@ -416,4 +416,27 @@
 ```
 
   </li>
+  <li>
+    <h3>Listas de definición</h3>
+    <p>Estas listas son para definir términos y sus descripciones.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <dl>
+      <dt>HTML</dt>
+      <dd>Lenguaje de marcado utilizado para estructurar el contenido de la web.</dd>
+      <dt>CSS</dt>
+      <dd>Lenguaje de estilos utilizado para darle formato visual a una página web.</dd>
+    </dl>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
