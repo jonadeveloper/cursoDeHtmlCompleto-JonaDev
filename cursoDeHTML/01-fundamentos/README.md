@@ -118,7 +118,94 @@
 
 ![Copia de githubport (4)](https://github.com/user-attachments/assets/0c1019f9-bbf1-48b3-be65-2ce477e4f50d)
 
-<h1 align="center">Comencemos con las primeras etiquetas</h1>
+<h2 align="center">Comencemos con las primeras etiquetas</h2>
 
 <p align="center"><em>Aunque recien estamos empezando, ya vamos incorporando conceptos. Ya tenemos claro cual es la estructura basica de un documento, que son las etiquetas y los atributos. Sigamos avanzando. Veamos algunas de las etiquetas basicas del lenguaje.</em></p>
 
+<h2 align="center">Etiquetas de texto</h2>
+
+<ol>
+  <li>
+    <h3>Etiquetas de encabezado</h3>
+    <p>Estas etiquetas definen los encabezados de una página web, y su jerarquía va desde h1, el más importante, hasta h6, el menos importante.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <h1>Bienvenidos a mi web</h1>
+    <h2>Bienvenidos a mi web</h2>
+    <h3>Bienvenidos a mi web</h3>
+    <h4>Bienvenidos a mi web</h4>
+    <h5>Bienvenidos a mi web</h5>
+    <h6>Bienvenidos a mi web</h6>
+  </body>
+</html>
+
+```
+    
+  </li>
+  <li>
+    <h3>Etiqueta de parrafo</h3>
+    <p>Se utiliza para contener bloques de texto, lo que equivale a un párrafo en un documento.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>Hola, esto es un parrafo</p>
+  </body>
+</html>
+
+```
+    
+  </li>
+  <li>
+    <h3>Etiquetas de texto en negrita</h3>
+    <p>Las dos etiquetas que veremos a continuación(b , strong), se utilizan para destacar un texto en negrita. Visualmente son iguales, pero con una diferencia semantica que veremos mas adelante.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>Hola, esto es un <b>parrafo</b></p>
+    <p>Hola, esto es un <strong>parrafo</strong></p>
+  </body>
+</html>
+
+```
+    
+  </li>
+  <li>
+    <h3>Etiquetas de texto en cursiva</h3>
+    <p>Las dos etiquetas que veremos a continuación(em , i), son similares a las anteriores. Se utilizan para transformar un texto en cursiva. Visualmente son iguales, pero al igual que las anteriores,tienen una diferencia semantica que veremos mas adelante.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>Hola, <em>este es un texto en cursiva</em</p>
+    <p>Hola, <i>este es un texto en cursiva</i></p>
+  </body>
+</html>
+
+```
+    
+  </li>
+</ol>
