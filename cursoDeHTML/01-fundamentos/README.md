@@ -329,4 +329,23 @@
 ```
     
   </li>
+  <li>
+    <h3>Etiqueta de abreviatura</h3>
+    <p>Define una abreviatura, y al pasar el cursor sobre ella, se puede mostrar el significado completo.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>El <abbr title="World Wide Web">WWW</abbr> es un sistema de documentos interconectados.</p>
+  </body>
+</html>
+
+```
+    
+  </li>
 </ol>
