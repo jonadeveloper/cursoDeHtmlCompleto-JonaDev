@@ -208,4 +208,44 @@
 ```
     
   </li>
+  <li>
+    <h3>Etiquetas de texto pequeño</h3>
+    <p>Representa un texto de menor importancia o una nota aclaratoria.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>Todos los derechos reservados. <small>(c) 2024 JonaDev</small></p>
+  </body>
+</html>
+
+```
+    
+  </li>
+  <li>
+    <h3>Etiquetas de cita en bloque</h3>
+    <p>Indica que el contenido es una cita en bloque de otro autor.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <blockquote>
+  "No se trata solo de conectar computadoras, se trata de conectar personas." - Tim Berners Lee
+    </blockquote>
+  </body>
+</html>
+
+```
+    
+  </li>
 </ol>
