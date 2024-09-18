@@ -394,4 +394,26 @@
 ```
 
   </li>
+  <li>
+    <h3>Listas ordenadas</h3>
+    <p>Estas listas se utilizan cuando el orden de los elementos es importante. Los elementos de la lista están numerados automáticamente.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <ol>
+      <li>Aprender HTML</li>
+      <li>Estudiar CSS</li>
+      <li>Dominar JavaScript</li>
+    </ol>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
