@@ -284,7 +284,25 @@
         console.log('Hola Mundo');
       }
     </pre>
+  </body>
+</html>
 
+```
+    
+  </li>
+  <li>
+    <h3>Etiqueta de texto resaltado</h3>
+    <p>Marca el texto como destacado o resaltado, similar a un marcador de texto en papel.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>Recorda estudiar <mark>HTML semántico</mark> para mejorar la accesibilidad.</p>
   </body>
 </html>
 
