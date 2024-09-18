@@ -309,4 +309,24 @@
 ```
     
   </li>
+  <li>
+    <h3>Etiqueta de texto tachado y texto insertado</h3>
+    <p>Estas etiquetas indican que el texto ha sido eliminado o tachado o bien que el texto ha sido agregado o insertado recientemente</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>El curso de HTML <del>inicia mañana</del>, ya esta disponible.</p>
+    <p>La segunda sección del curso <ins>estara disponible en unas horas</ins>.</p>
+  </body>
+</html>
+
+```
+    
+  </li>
 </ol>
