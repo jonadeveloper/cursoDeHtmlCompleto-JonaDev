@@ -228,7 +228,7 @@
     
   </li>
   <li>
-    <h3>Etiquetas de cita en bloque</h3>
+    <h3>Etiqueta de cita en bloque</h3>
     <p>Indica que el contenido es una cita en bloque de otro autor.</p>
     
 ```html
@@ -242,6 +242,49 @@
     <blockquote>
   "No se trata solo de conectar computadoras, se trata de conectar personas." - Tim Berners Lee
     </blockquote>
+  </body>
+</html>
+
+```
+    
+  </li>
+  <li>
+    <h3>Etiqueta de codigo</h3>
+    <p>Define fragmentos de código en el texto, mostrando el texto con una fuente monoespaciada.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <p>Para capturar un elemento HTML por su ID , utiliza la función <code>document.getElementById</code>.</p>
+  </body>
+</html>
+
+```
+    
+  </li>
+  <li>
+    <h3>Etiqueta de texto formateado</h3>
+    <p>Mantiene el formato original del texto, incluyendo los saltos de línea y los espacios en blanco. Ideal para mostrar bloques de código o texto con un formato específico.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <pre>
+      function saludo() {
+        console.log('Hola Mundo');
+      }
+    </pre>
+
   </body>
 </html>
 
