@@ -576,8 +576,8 @@
 
   </li>
   <li>
-    <h3>Listas ordenadas</h3>
-    <p>Estas listas se utilizan cuando el orden de los elementos es importante. Los elementos de la lista están numerados automáticamente.</p>
+    <h3>Etiqueta de fila</h3>
+    <p>La etiqueta tr define una fila dentro de la tabla. Contiene las celdas, ya sean de encabezado o de datos.</p>
     
 ```html
 
@@ -587,11 +587,10 @@
     <title>Bienvenidos a mi web</title>
   </head>
   <body>
-    <ol>
-      <li>Aprender HTML</li>
-      <li>Estudiar CSS</li>
-      <li>Dominar JavaScript</li>
-    </ol>
+    <tr>
+      <td>Celda 1</td>
+      <td>Celda 2</td>
+    </tr>
   </body>
 </html>
 ```
