@@ -688,4 +688,27 @@
 ```
 
   </li>
+   <li>
+    <h3>Etiqueta de agrupación del pie de la tabla</h3>
+    <p>La etiqueta tfoot, agrupa las celdas que contienen el pie de la tabla, que a menudo incluyen totales o resúmenes. Se coloca normalmente después del cuerpo de la tabla y antes del cierre de la etiqueta table</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <tfoot>
+      <tr>
+        <td>Total</td>
+        <td>$3</td>
+      </tr>
+    </tfoot>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
