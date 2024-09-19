@@ -551,3 +551,73 @@
 
   </li>
 </ol>
+
+<h2 align="center">Etiquetas de tablas</h2>
+
+<ol>
+  <li>
+    <h3>Etiqueta contenedora principal</h3>
+    <p>Contiene todas las demás etiquetas relacionadas con la tabla, como filas y celdas.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <table>
+      <!-- Contenido de la tabla va aquí -->
+    </table>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Listas ordenadas</h3>
+    <p>Estas listas se utilizan cuando el orden de los elementos es importante. Los elementos de la lista están numerados automáticamente.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <ol>
+      <li>Aprender HTML</li>
+      <li>Estudiar CSS</li>
+      <li>Dominar JavaScript</li>
+    </ol>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Listas de definición</h3>
+    <p>Estas listas son para definir términos y sus descripciones.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <dl>
+      <dt>HTML</dt>
+      <dd>Lenguaje de marcado utilizado para estructurar el contenido de la web.</dd>
+      <dt>CSS</dt>
+      <dd>Lenguaje de estilos utilizado para darle formato visual a una página web.</dd>
+    </dl>
+  </body>
+</html>
+```
+
+  </li>
+</ol>
