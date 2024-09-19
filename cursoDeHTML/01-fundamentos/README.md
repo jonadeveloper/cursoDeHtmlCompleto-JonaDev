@@ -814,3 +814,75 @@
   </body>
 </html>
 ```
+
+<h2 align="center">Etiquetas de formularios</h2>
+
+<ol>
+  <li>
+    <h3>Listas desordenadas</h3>
+    <p>Estas listas no tienen un orden específico y los elementos son presentados con viñetas.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <ul>
+      <li>Desarrollo Web</li>
+      <li>Programación</li>
+      <li>Diseño UX/UI</li>
+    </ul>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Listas ordenadas</h3>
+    <p>Estas listas se utilizan cuando el orden de los elementos es importante. Los elementos de la lista están numerados automáticamente.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <ol>
+      <li>Aprender HTML</li>
+      <li>Estudiar CSS</li>
+      <li>Dominar JavaScript</li>
+    </ol>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Listas de definición</h3>
+    <p>Estas listas son para definir términos y sus descripciones.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <dl>
+      <dt>HTML</dt>
+      <dd>Lenguaje de marcado utilizado para estructurar el contenido de la web.</dd>
+      <dt>CSS</dt>
+      <dd>Lenguaje de estilos utilizado para darle formato visual a una página web.</dd>
+    </dl>
+  </body>
+</html>
+```
+
+  </li>
+</ol>
