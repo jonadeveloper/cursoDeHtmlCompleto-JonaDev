@@ -732,4 +732,24 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta para definir estilos de la tabla</h3>
+    <p>Las etiquetas col y colgroup, permiten definir grupos de columnas dentro de una tabla para aplicar estilos específicos. Aunque no tienen contenido propio, ayudan a estructurar visualmente las tablas.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <colgroup>
+      <col span="2" style="background-color: lightgray;">
+    </colgroup>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
