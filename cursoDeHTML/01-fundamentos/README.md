@@ -661,4 +661,31 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de agrupación del cuerpo de la tabla</h3>
+    <p>La etiqueta tbody, agrupa el contenido del cuerpo de la tabla, separándolo de la cabecera y el pie. Dentro de esta etiqueta se encuentran las filas tr que contienen los datos td.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <tbody>
+      <tr>
+        <td>Manzana</td>
+        <td>$1</td>
+      </tr>
+      <tr>
+        <td>Banana</td>
+        <td>$2</td>
+      </tr>
+    </tbody>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
