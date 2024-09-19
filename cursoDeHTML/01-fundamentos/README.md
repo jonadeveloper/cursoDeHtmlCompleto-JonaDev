@@ -443,3 +443,66 @@
 
 <h2 align="center">Etiquetas de contenido multimedia</h2>
 
+<ol>
+  <li>
+    <h3>Etiqueta de imagen</h3>
+    <p>Es una etiqueta simple y se utiliza para mostrar imágenes que complementan el contenido textual. Mejora la experiencia visual y puede ser parte clave del contenido. Se utiliza el atributo src para especificar la URL de la imagen.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <img src="logo.png" alt="Logo de JonaDev" width="200" height="100">
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiqueta de video</h3>
+    <p>Esta etiqueta se utiliza para incrustar archivos de video que se pueden reproducir directamente en el navegador, con controles de reproducción como pausa y volumen.  Se utiliza el atributo src para especificar la URL del video, el atributo controls para mostrar controles de reproducción, como el botón de play, barra de progreso, etc, el atributo poster para mostrar una imagen antes de que comience la reproducción y otros atributos que veremos mas adelante.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <video src="video.mp4" controls width="600" poster="imagen-inicial.png">
+      Tu navegador no soporta el elemento de video.
+    </video>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Listas de definición</h3>
+    <p>Estas listas son para definir términos y sus descripciones.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <dl>
+      <dt>HTML</dt>
+      <dd>Lenguaje de marcado utilizado para estructurar el contenido de la web.</dd>
+      <dt>CSS</dt>
+      <dd>Lenguaje de estilos utilizado para darle formato visual a una página web.</dd>
+    </dl>
+  </body>
+</html>
+```
+
+  </li>
+</ol>
