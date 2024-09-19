@@ -483,8 +483,8 @@
 
   </li>
   <li>
-    <h3>Listas de definición</h3>
-    <p>Estas listas son para definir términos y sus descripciones.</p>
+    <h3>Etiquetas de audio</h3>
+    <p>Similar a la anterior. Se utiliza para agregar clips de audio, como música o efectos de sonido, con controles de reproducción. Los atributos son casi los mismos que los de la etiqueta de video.</p>
     
 ```html
 
@@ -494,12 +494,9 @@
     <title>Bienvenidos a mi web</title>
   </head>
   <body>
-    <dl>
-      <dt>HTML</dt>
-      <dd>Lenguaje de marcado utilizado para estructurar el contenido de la web.</dd>
-      <dt>CSS</dt>
-      <dd>Lenguaje de estilos utilizado para darle formato visual a una página web.</dd>
-    </dl>
+    <audio src="audio.mp3" controls>
+      Tu navegador no soporta el elemento de audio.
+    </audio>
   </body>
 </html>
 ```
