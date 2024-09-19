@@ -638,4 +638,27 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de agrupación de cabecera</h3>
+    <p>La etiqueta thead, agrupa el conjunto de celdas de encabezado en una tabla. Contiene las etiquetas tr y th para la cabecera de la tabla.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <thead>
+      <tr>
+        <th>Producto</th>
+        <th>Precio</th>
+      </tr>
+    </thead>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
