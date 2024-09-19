@@ -753,3 +753,64 @@
 
   </li>
 </ol>
+
+<h3>Aqui un ejemplo de tablas utilizando todas las etiquetas explicadas</h3>
+
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <table>
+    <!-- Título o descripción de la tabla -->
+      <caption>Precios de Productos por Tienda</caption>
+    
+    <!-- Definir el estilo de las columnas -->
+      <colgroup>
+        <col span="1">
+        <col span="1">
+        <col span="1" style="background-color: lightgreen;">
+      </colgroup>
+    
+    <!-- Cabecera de la tabla -->
+      <thead>
+        <tr>
+          <th>Producto</th>
+          <th>Tienda A</th>
+          <th>Tienda B</th>
+        </tr>
+      </thead>
+    
+    <!-- Cuerpo de la tabla -->
+    <tbody>
+      <tr>
+        <td>Manzana</td>
+        <td>$1</td>
+        <td>$1.20</td>
+      </tr>
+      <tr>
+        <td>Banana</td>
+        <td>$0.80</td>
+        <td>$0.75</td>
+      </tr>
+      <tr>
+        <td>Naranja</td>
+        <td>$0.90</td>
+        <td>$0.95</td>
+      </tr>
+    </tbody>
+    <!-- Pie de la tabla -->
+    <tfoot>
+      <tr>
+        <td>Total</td>
+        <td>$2.70</td>
+        <td>$2.90</td>
+      </tr>
+    </tfoot>
+  </table>
+  </body>
+</html>
+```
