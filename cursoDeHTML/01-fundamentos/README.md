@@ -502,4 +502,31 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiquetas de imagenes optimizadas</h3>
+    <p>La etiqueta picture proporciona una forma más avanzada de insertar imágenes, permitiendo que el navegador elija qué imagen mostrar en función del tamaño de la pantalla o el tipo de dispositivo. Y la etiqueta source especifica diferentes fuentes de medios para los elementos video, audio, y picture.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <picture>
+      <source media="(min-width: 800px)" srcset="imagen-grande.jpg">
+      <source media="(min-width: 400px)" srcset="imagen-mediana.jpg">
+      <img src="imagen-pequeña.jpg" alt="Imagen responsive">
+    </picture>
+    <video controls>
+      <source src="video.mp4" type="video/mp4">
+      <source src="video.webm" type="video/webm">
+      Tu navegador no soporta la etiqueta de video.
+    </video>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
