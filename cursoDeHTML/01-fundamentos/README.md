@@ -617,4 +617,25 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de celda de datos</h3>
+    <p>La etiqueta td, se utiliza para contener los datos dentro de cada fila y columna de la tabla. Es el contenido principal de la tabla.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <tr>
+      <td>Manzana</td>
+      <td>$1</td>
+    </tr>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
