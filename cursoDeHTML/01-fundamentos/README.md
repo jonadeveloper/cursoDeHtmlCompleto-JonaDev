@@ -858,8 +858,8 @@
 
   </li>
   <li>
-    <h3>Listas de definición</h3>
-    <p>Estas listas son para definir términos y sus descripciones.</p>
+    <h3>Etiqueta descriptiva</h3>
+    <p>La etiqueta label, proporciona una descripción semántica para los campos del formulario.</p>
     
 ```html
 
@@ -869,12 +869,8 @@
     <title>Bienvenidos a mi web</title>
   </head>
   <body>
-    <dl>
-      <dt>HTML</dt>
-      <dd>Lenguaje de marcado utilizado para estructurar el contenido de la web.</dd>
-      <dt>CSS</dt>
-      <dd>Lenguaje de estilos utilizado para darle formato visual a una página web.</dd>
-    </dl>
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre">
   </body>
 </html>
 ```
