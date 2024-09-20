@@ -963,7 +963,7 @@
   </li>
   <li>
     <h3>Etiqueta de agrupación de campos</h3>
-    <p>La etiqueta fieldset agrupa conjuntos de campos que están relacionados dentro de un formulario.</p>
+    <p>La etiqueta fieldset agrupa conjuntos de campos que están relacionados dentro de un formulario. Y la etiquta legend le da un titulo a la agrupación de campos.</p>
     
 ```html
 
