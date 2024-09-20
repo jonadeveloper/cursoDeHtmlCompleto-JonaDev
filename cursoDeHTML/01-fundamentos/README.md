@@ -1091,7 +1091,7 @@
       <label for="pais">País:</label>
       <select id="pais" name="pais">
         <option value="ar">Argentina</option>
-        <option value="mx">México</option>
+        <option value="fr">Francia</option>
       </select>
 
       <label for="navegador">Navegador favorito:</label>
