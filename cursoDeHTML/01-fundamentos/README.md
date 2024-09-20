@@ -934,6 +934,7 @@
 ```
 
   </li>
+  <li>
   <h3>Etiqueta de grupo de opciones</h3>
     <p>Agrupa opciones relacionadas dentro de un menú desplegable.</p>
     
@@ -955,6 +956,28 @@
         <option value="marsella">Marsella</option>
       </optgroup>
     </select>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiqueta de agrupación de campos</h3>
+    <p>La etiqueta fieldset agrupa conjuntos de campos que están relacionados dentro de un formulario.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <fieldset>
+      <legend>Información Personal</legend>
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" name="nombre">
+    </fieldset>
   </body>
 </html>
 ```
