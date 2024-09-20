@@ -912,4 +912,25 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de menú desplegable</h3>
+    <p>La etiqueta select, crea un menú desplegable que permite al usuario seleccionar una opción. Se utiliza junto a la etiqueta option(dentro de select), que define las opciones del menu.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <label for="pais">País:</label>
+  <select id="pais" name="pais">
+    <option value="ar">Argentina</option>
+    <option value="mx">Francia</option>
+  </select>
+
+</html>
+```
+
+  </li>
 </ol>
