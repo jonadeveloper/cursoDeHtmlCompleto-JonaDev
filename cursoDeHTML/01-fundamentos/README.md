@@ -1046,4 +1046,23 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de medidor</h3>
+    <p>La etiqueta meter (similar a progress) representa un medidor dentro de un rango conocido (por ejemplo, capacidad de almacenamiento).</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <label for="nivel">Nivel de batería:</label>
+    <meter id="nivel" value="0.6" min="0" max="1">60%</meter>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
