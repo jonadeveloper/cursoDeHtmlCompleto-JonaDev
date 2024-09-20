@@ -894,4 +894,22 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de botón</h3>
+    <p>La etiqueta button es un elemento interactivo que permite al usuario enviar o ejecutar acciones dentro del formulario. Puede ser de tipo submit (enviar datos del formulario), reset (restablecer el formulario) o button (botón sin acción predeterminada).</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <button type="submit">Enviar</button>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
