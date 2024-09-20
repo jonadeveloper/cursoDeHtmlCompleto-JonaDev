@@ -928,7 +928,6 @@
     <option value="ar">Argentina</option>
     <option value="mx">Francia</option>
   </select>
-
 </html>
 ```
 
