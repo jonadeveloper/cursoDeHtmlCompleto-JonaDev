@@ -1028,4 +1028,22 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de barra de progreso</h3>
+    <p>La etiqueta progress representa una barra de progreso que muestra el avance de una tarea.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <progress value="70" max="100">70%</progress>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
