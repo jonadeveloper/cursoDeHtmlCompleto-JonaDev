@@ -1077,36 +1077,36 @@
     <title>Bienvenidos a mi web</title>
   </head>
   <body>
-    <form action="/procesar" method="POST">
-    <fieldset>
-    <legend>Información Personal</legend>
-      <label for="nombre">Nombre:</label>
-      <input type="text" id="nombre" name="nombre" required>
-      <label for="correo">Correo:</label>
-      <input type="email" id="correo" name="correo" required>
-    </fieldset>
-
-    <fieldset>
-      <legend>Preferencias</legend>
-      <label for="pais">País:</label>
-      <select id="pais" name="pais">
-        <option value="ar">Argentina</option>
-        <option value="fr">Francia</option>
-      </select>
-
-      <label for="navegador">Navegador favorito:</label>
-      <input list="navegadores" id="navegador" name="navegador">
-      <datalist id="navegadores">
-        <option value="Chrome">
-        <option value="Firefox">
-        <option value="Safari">
-      </datalist>
-
-      <label for="comentarios">Comentarios:</label>
-      <textarea id="comentarios" name="comentarios" rows="4"></textarea>
-    </fieldset>
-
-    <button type="submit">Enviar</button>
+    <form>
+      <fieldset>
+      <legend>Información Personal</legend>
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required>
+        <label for="correo">Correo:</label>
+        <input type="email" id="correo" name="correo" required>
+      </fieldset>
+  
+      <fieldset>
+        <legend>Preferencias</legend>
+        <label for="pais">País:</label>
+        <select id="pais" name="pais">
+          <option value="ar">Argentina</option>
+          <option value="fr">Francia</option>
+        </select>
+  
+        <label for="navegador">Navegador favorito:</label>
+        <input list="navegadores" id="navegador" name="navegador">
+        <datalist id="navegadores">
+          <option value="Chrome">
+          <option value="Firefox">
+          <option value="Safari">
+        </datalist>
+  
+        <label for="comentarios">Comentarios:</label>
+        <textarea id="comentarios" name="comentarios" rows="4"></textarea>
+      </fieldset>
+  
+      <button type="submit">Enviar</button>
     </form>
   </body>
 </html>
