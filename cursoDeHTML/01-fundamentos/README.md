@@ -819,8 +819,8 @@
 
 <ol>
   <li>
-    <h3>Listas desordenadas</h3>
-    <p>Estas listas no tienen un orden específico y los elementos son presentados con viñetas.</p>
+    <h3>Etiqueta contenedora del formulario</h3>
+    <p>Es el contenedor principal que engloba todos los elementos del formulario.</p>
     
 ```html
 
@@ -830,11 +830,9 @@
     <title>Bienvenidos a mi web</title>
   </head>
   <body>
-    <ul>
-      <li>Desarrollo Web</li>
-      <li>Programación</li>
-      <li>Diseño UX/UI</li>
-    </ul>
+    <form action="/enviar-datos" method="POST">
+      <!-- Campos de formulario -->
+    </form>
   </body>
 </html>
 ```
