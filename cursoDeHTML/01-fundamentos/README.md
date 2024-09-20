@@ -876,4 +876,22 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de area de texto</h3>
+    <p>La etiqueta textarea, se utiliza cuando se necesita que el usuario ingrese grandes cantidades de texto, como comentarios o mensajes.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <textarea name="comentarios" placeholder="Escribe tus comentarios"></textarea>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
