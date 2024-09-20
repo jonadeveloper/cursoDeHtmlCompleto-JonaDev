@@ -923,11 +923,39 @@
   <head>
     <title>Bienvenidos a mi web</title>
   </head>
-  <label for="pais">País:</label>
-  <select id="pais" name="pais">
-    <option value="ar">Argentina</option>
-    <option value="mx">Francia</option>
-  </select>
+  <body>
+    <label for="pais">País:</label>
+      <select id="pais" name="pais">
+        <option value="ar">Argentina</option>
+        <option value="mx">Francia</option>
+      </select>
+  </body>
+</html>
+```
+
+  </li>
+  <h3>Etiqueta de grupo de opciones</h3>
+    <p>Agrupa opciones relacionadas dentro de un menú desplegable.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <select name="ciudad">
+      <optgroup label="Argentina">
+        <option value="buenos_aires">Buenos Aires</option>
+        <option value="cordoba">Córdoba</option>
+      </optgroup>
+      <optgroup label="Francia">
+        <option value="paris">Paris</option>
+        <option value="marsella">Marsella</option>
+      </optgroup>
+    </select>
+  </body>
 </html>
 ```
 
