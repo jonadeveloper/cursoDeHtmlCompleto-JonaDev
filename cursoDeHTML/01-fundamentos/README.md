@@ -1008,4 +1008,24 @@
 ```
 
   </li>
+  <li>
+    <h3>Etiqueta de resultado de calculo</h3>
+    <p>La etiqueta output se utiliza para mostrar el resultado de una operación realizada dentro del formulario.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <label for="cantidad">Cantidad:</label>
+    <input type="number" id="cantidad" value="10">
+    <output name="resultado" for="cantidad">10</output>
+  </body>
+</html>
+```
+
+  </li>
 </ol>
