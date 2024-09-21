@@ -1112,3 +1112,4 @@
 </html>
 ```
 
+<h3 align="center">Y para finalizar esta sección, unos ejercicios para poner en practica lo aprendido.</h3>
