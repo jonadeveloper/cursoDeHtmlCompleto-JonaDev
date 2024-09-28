@@ -12,7 +12,6 @@
   <li>
     <h3>header</h3>
     <p>Significado semantico: Representa el encabezado de una página o una sección del documento. Puede contener elementos como un logotipo, menú de navegación, o título.</p>
-    <br>
     <p>Cuándo usarla: Cuando necesitas definir el encabezado de una página o una sección dentro de un artículo o sección.</p>
     
 ```html
