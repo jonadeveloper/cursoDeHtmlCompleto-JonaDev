@@ -9,7 +9,22 @@
 
 <h3>Etiquetas semanticas principales</h3>
 <ol>
-  <li><b>header</b>: Define el encabezado de un documento o sección.</li>
+  <li>
+    <h3>header:</h3><p> Define el encabezado de un documento o sección.</p>
+    <br>
+    <h3>Ejemplo:</h3>
+    
+
+```html
+
+    <header>
+      <h1>Mi Blog</h1>
+      <nav>Menú de Navegación</nav>
+    </header>
+
+```
+
+  </li>
   <li><b>footer</b>: Contiene el pie de página, como información de contacto o enlaces legales.</li>
   <li><b>nav</b>: Contiene la barra de navegación.</li>
   <li><b>article</b>: Contiene contenido independiente, como una publicación de blog o artículo.</li>
