@@ -10,7 +10,10 @@
 <h3>Etiquetas semanticas principales</h3>
 <ol>
   <li>
-    <h3>header:</h3><p> Define el encabezado de un documento o sección.</p>
+    <h3>header</h3>
+    <p>Significado semantico: Representa el encabezado de una página o una sección del documento. Puede contener elementos como un logotipo, menú de navegación, o título.</p>
+    <br>
+    <p>Cuándo usarla: Cuando necesitas definir el encabezado de una página o una sección dentro de un artículo o sección.</p>
     
 ```html
 
@@ -22,11 +25,23 @@
 ```
 
   </li>
-  <li><b>footer</b>: Contiene el pie de página, como información de contacto o enlaces legales.</li>
   <li><b>nav</b>: Contiene la barra de navegación.</li>
   <li><b>article</b>: Contiene contenido independiente, como una publicación de blog o artículo.</li>
   <li><b>section</b>: Agrupa contenido temáticamente relacionado.</li>
   <li><b>aside</b>: Define contenido complementario o relacionado al contenido principal, como una barra lateral.</li>
   <li><b>main</b>: Define el contenido principal de la página, excluyendo encabezados, pies de página, etc.</li>
   <li><b>figure y figurecaption</b>: Para agregar imágenes con subtítulos.</li>
+  <li>
+    <h3>footer:</h3> <p>Contiene el pie de página, como información de contacto o enlaces legales.</p>
+
+```html
+
+    <footer>
+      <p>© 2024 Mi Empresa</p>
+      <nav>Política de privacidad | Términos de servicio</nav>
+    </footer>
+
+```
+
+  </li>
 </ol>
