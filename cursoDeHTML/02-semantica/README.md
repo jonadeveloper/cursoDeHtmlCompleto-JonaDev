@@ -2,6 +2,6 @@
 
 <h1 align="center">Introducción a la semantica HTML</h1>
 
-<p><em>Antes de continuar, aclaremos algo. ¿Que es la semantica?</em>. La semantica de HTML significa utilizar etiquetas que tengan un significado lógico y claro para el navegador y los desarrolladores. Mejora la accesibilidad, SEO y hace que el código sea más legible.</p>
+<p>En este punto, ya vimos cuales son las etiquetas basicas de HTML y un poco más. A partir de ahora vamos a ver las etiquetas semanticas. Lo que va a mejorar la accesibilidad, SEO, y la estructura del documento.</p>
 
-<h3>Etiquetas semanticas principales</h3>
+<h3>¿Qué es HTML Semántico?</h3>
