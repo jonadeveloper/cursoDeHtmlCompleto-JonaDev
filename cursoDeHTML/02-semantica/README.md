@@ -11,10 +11,7 @@
 <ol>
   <li>
     <h3>header:</h3><p> Define el encabezado de un documento o sección.</p>
-    <br>
-    <h3>Ejemplo:</h3>
     
-
 ```html
 
     <header>
