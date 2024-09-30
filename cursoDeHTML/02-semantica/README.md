@@ -37,11 +37,19 @@
 
 ```
   </li>
-  <li><b>article</b>: Contiene contenido independiente, como una publicación de blog o artículo.</li>
-  <li><b>section</b>: Agrupa contenido temáticamente relacionado.</li>
-  <li><b>aside</b>: Define contenido complementario o relacionado al contenido principal, como una barra lateral.</li>
-  <li><b>main</b>: Define el contenido principal de la página, excluyendo encabezados, pies de página, etc.</li>
-  <li><b>figure y figurecaption</b>: Para agregar imágenes con subtítulos.</li>
+  <li><h3>main</h3> 
+    <p>Significado semantico: Define el contenido principal de la página. Solo debe haber un main por documento.</p>
+    <p>Cuándo usarla: Para el contenido principal que es único en la página, excluyendo encabezados, pies de página, y navegación.</p>
+    
+```html
+
+    <main>
+      <article>Contenido principal de la página</article>
+    </main>
+
+
+```
+  </li>
   <li>
     <h3>footer:</h3> <p>Contiene el pie de página, como información de contacto o enlaces legales.</p>
 
