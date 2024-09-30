@@ -121,5 +121,4 @@
   </li>
 </ol>
 
-<h3>Etiquetas NO semanticas.</h3>
 
