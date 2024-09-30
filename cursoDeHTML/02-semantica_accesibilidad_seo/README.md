@@ -132,22 +132,20 @@
     <p>Uso incorrecto: Se utiliza para agrupar elementos sin necesidad de establecer relaciones semánticas entre ellos. Se abusa de esta etiqueta para crear casi toda la estructura de una página.</p>
     <p>Alternativa: Usar etiquetas semánticas como section, article, header, footer, y main que describen claramente el propósito del contenido.</p>    
   </li>
+  <li>
+    <h3>span</h3>
+    <p>Uso incorrecto: Se usa de manera excesiva para aplicar estilos o agrupar texto cuando no es necesario. Se abusa de span en lugar de otras etiquetas más adecuadas como strong para texto en negrita o em para texto enfatizado.</p>
+    <p>Alternativa: Utilizar etiquetas semánticas como strong, em, o mark cuando sea apropiado.</p>    
+  </li>
+  <li>
+    <h3>b</h3>
+    <p>Uso incorrecto: Se usa para hacer texto en negrita sin ninguna semántica, es decir, sin decirle al navegador o a los lectores de pantalla que ese texto tiene importancia o relevancia.</p>
+    <p>Alternativa: Usar strong si el texto tiene importancia o relevancia en el contexto.</p>    
+  </li>
+  <li>
+    <h3>i</h3>
+    <p>Uso incorrecto: Similar al caso de b, se utiliza para mostrar texto en cursiva, pero sin ninguna semántica adicional.</p>
+    <p>Alternativa: Usar em si el texto debe ser enfatizado o leído con un tono diferente.</p>    
+  </li>
   
 </ol>
-
-| Etiqueta     | Semántica/No Semántica | Descripción                                                                 | Jerarquía                                        | Uso                                             |
-| ------------ | ---------------------- | --------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| `h1` - `h6`  | Semántica              | Encabezados de diferentes niveles, de `h1` (más importante) a `h6` (menos). | Tienen jerarquía, siendo `h1` el más importante. | Para títulos y subtítulos en una página.        |
-| `p`          | Semántica              | Define un párrafo.                                                          | No tiene jerarquía.                              | Para agrupar y estructurar bloques de texto.    |
-| `a`          | Semántica              | Define un hipervínculo para navegar entre páginas.                          | No tiene jerarquía.                              | Para crear enlaces a otras páginas o recursos.  |
-| `strong`     | Semántica              | Texto importante, aparece en negrita y tiene semántica de énfasis.          | No tiene jerarquía, pero marca importancia.      | Para destacar texto importante.                 |
-| `em`         | Semántica              | Texto enfatizado, aparece en cursiva con énfasis semántico.                 | No tiene jerarquía.                              | Para enfatizar o destacar texto.                |
-| `blockquote` | Semántica              | Define una cita en bloque de otro autor.                                    | No tiene jerarquía formal.                       | Para insertar citas o referencias textuales.    |
-| `code`       | Semántica              | Muestra fragmentos de código en texto monoespaciado.                        | No tiene jerarquía.                              | Para mostrar código o comandos.                 |
-| `pre`        | Semántica              | Texto preformateado, respeta espacios y saltos de línea.                    | No tiene jerarquía.                              | Para texto o código con formato exacto.         |
-| `mark`       | Semántica              | Resalta el texto, útil para llamar la atención.                             | No tiene jerarquía.                              | Para resaltar texto.                            |
-| `b`          | No semántica           | Texto en negrita sin implicaciones semánticas.                              | Solo visual.                                     | Para texto visualmente importante.              |
-| `i`          | No semántica           | Texto en cursiva sin implicaciones semánticas.                              | Solo visual.                                     | Para estilizar texto, como nombres o títulos.   |
-| `ul`         | Semántica              | Lista desordenada.                                                          | No tiene jerarquía.                              | Para listas de elementos sin orden.             |
-| `ol`         | Semántica              | Lista ordenada.                                                             | No tiene jerarquía.                              | Para listas de elementos con un orden numérico. |
-| `table`      | Semántica              | Contenedor de datos tabulares.                                              | Tiene jerarquía interna (thead, tbody, etc.).    | Para mostrar datos en una tabla estructurada.   |
