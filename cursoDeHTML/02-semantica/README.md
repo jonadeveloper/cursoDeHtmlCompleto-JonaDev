@@ -61,7 +61,18 @@
       <p>Últimas noticias del día...</p>
     </section>
 
+```
+  </li>
+  <li><h3>article</h3> 
+    <p>Significado semantico: Define un contenido independiente, como una publicación de blog, un artículo de revista o un comentario.</p>
+    <p>Cuándo usarla: Para contenido que tiene sentido por sí mismo, como una entrada de blog o un artículo de noticias.</p>
+    
+```html
 
+    <article>
+      <h2>Título del artículo</h2>
+      <p>Contenido del artículo.</p>
+    </article>
 
 ```
   </li>
