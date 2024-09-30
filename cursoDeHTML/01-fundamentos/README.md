@@ -1112,4 +1112,4 @@
 </html>
 ```
 
-<h3 align="center">Y para finalizar esta sección, unos ejercicios para poner en practica lo aprendido.</h3>
+<h3 align="center">Y para finalizar esta sección, un proyecto simple para poner en practica lo aprendido. Crea una página web sencilla que reúna todos los conceptos aprendidos en el nivel principiante.</h3>
