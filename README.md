@@ -54,7 +54,7 @@
   </li>
 </ul>
 
-<h3>2 - semantica de HTML - Nivel intermedio</h3>
+<h3>2 - semantica, accesibilidad y SEO - Nivel intermedio</h3>
 <p>En esta sección vamos a avanzar hacia la semantica del lenguaje. Los temas que vamos a abordar son:</p>
 <ul>
   <li>
@@ -73,7 +73,7 @@
     Accesibilidad.
   </li>
   <li>
-    SEO basico.
+    SEO.
   </li>
 </ul>
 
