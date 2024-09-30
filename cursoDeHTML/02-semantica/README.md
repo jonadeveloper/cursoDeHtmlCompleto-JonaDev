@@ -50,6 +50,21 @@
 
 ```
   </li>
+  <li><h3>section</h3> 
+    <p>Significado semantico: Representa una sección temática dentro de un documento. Se utiliza para dividir contenido en bloques con significado específico.</p>
+    <p>Cuándo usarla: Cuando tienes varias secciones de contenido que están relacionadas entre sí, pero son independientes en cierta medida.</p>
+    
+```html
+
+    <section>
+      <h2>Sección de Noticias</h2>
+      <p>Últimas noticias del día...</p>
+    </section>
+
+
+
+```
+  </li>
   <li>
     <h3>footer:</h3> <p>Contiene el pie de página, como información de contacto o enlaces legales.</p>
 
