@@ -121,4 +121,21 @@
   </li>
 </ol>
 
+<h3 align="center">Comparativa de Etiquetas HTML</h3>
 
+| Etiqueta    | Semántica/No Semántica | Descripción                                                                 | Jerarquía                                         | Uso                                      |
+|-------------|------------------------|-----------------------------------------------------------------------------|--------------------------------------------------|------------------------------------------|
+| `h1` - `h6` | Semántica               | Encabezados de diferentes niveles, de `h1` (más importante) a `h6` (menos). | Tienen jerarquía, siendo `h1` el más importante. | Para títulos y subtítulos en una página. |
+| `p`         | Semántica               | Define un párrafo.                                                          | No tiene jerarquía.                              | Para agrupar y estructurar bloques de texto. |
+| `a`         | Semántica               | Define un hipervínculo para navegar entre páginas.                          | No tiene jerarquía.                              | Para crear enlaces a otras páginas o recursos. |
+| `strong`    | Semántica               | Texto importante, aparece en negrita y tiene semántica de énfasis.          | No tiene jerarquía, pero marca importancia.      | Para destacar texto importante.           |
+| `em`        | Semántica               | Texto enfatizado, aparece en cursiva con énfasis semántico.                 | No tiene jerarquía.                              | Para enfatizar o destacar texto.          |
+| `blockquote`| Semántica               | Define una cita en bloque de otro autor.                                    | No tiene jerarquía formal.                       | Para insertar citas o referencias textuales. |
+| `code`      | Semántica               | Muestra fragmentos de código en texto monoespaciado.                        | No tiene jerarquía.                              | Para mostrar código o comandos.           |
+| `pre`       | Semántica               | Texto preformateado, respeta espacios y saltos de línea.                    | No tiene jerarquía.                              | Para texto o código con formato exacto.   |
+| `mark`      | Semántica               | Resalta el texto, útil para llamar la atención.                             | No tiene jerarquía.                              | Para resaltar texto.                      |
+| `b`         | No semántica            | Texto en negrita sin implicaciones semánticas.                              | Solo visual.                                     | Para texto visualmente importante.        |
+| `i`         | No semántica            | Texto en cursiva sin implicaciones semánticas.                              | Solo visual.                                     | Para estilizar texto, como nombres o títulos. |
+| `ul`        | Semántica               | Lista desordenada.                                                          | No tiene jerarquía.                              | Para listas de elementos sin orden.       |
+| `ol`        | Semántica               | Lista ordenada.                                                             | No tiene jerarquía.                              | Para listas de elementos con un orden numérico. |
+| `table`     | Semántica               | Contenedor de datos tabulares.                                              | Tiene jerarquía interna (thead, tbody, etc.).    | Para mostrar datos en una tabla estructurada. |
