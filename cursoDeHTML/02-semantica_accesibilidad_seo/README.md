@@ -124,7 +124,16 @@
   </li>
 </ol>
 
-<h3 align="center">Comparativa de Etiquetas HTML</h3>
+<h3>Etiquetas NO semanticas que se suelen usar de manera erronea.</h3>
+
+<ol>
+  <li>
+    <h3>div</h3>
+    <p>Uso incorrecto: Se utiliza para agrupar elementos sin necesidad de establecer relaciones semánticas entre ellos. Se abusa de esta etiqueta para crear casi toda la estructura de una página.</p>
+    <p>Alternativa: Usar etiquetas semánticas como section, article, header, footer, y main que describen claramente el propósito del contenido.</p>    
+  </li>
+  
+</ol>
 
 | Etiqueta     | Semántica/No Semántica | Descripción                                                                 | Jerarquía                                        | Uso                                             |
 | ------------ | ---------------------- | --------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
