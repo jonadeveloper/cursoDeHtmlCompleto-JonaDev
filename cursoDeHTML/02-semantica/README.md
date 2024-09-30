@@ -93,9 +93,10 @@
 
 ```
   </li>
-  <li>
-    <h3>footer:</h3> <p>Contiene el pie de página, como información de contacto o enlaces legales.</p>
-
+  <li><h3>footer</h3> 
+    <p>Significado semantico: Define el pie de página de un documento o sección, donde generalmente se incluye información de contacto, derechos de autor o enlaces legales.</p>
+    <p>Cuándo usarla: Para agrupar información que aparece al final de una página o sección, como créditos o enlaces adicionales.</p>
+    
 ```html
 
     <footer>
@@ -104,6 +105,5 @@
     </footer>
 
 ```
-
   </li>
 </ol>
