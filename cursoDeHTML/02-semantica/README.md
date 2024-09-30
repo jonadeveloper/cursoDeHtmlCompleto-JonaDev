@@ -106,4 +106,17 @@
 
 ```
   </li>
+  <li><h3>figure y figcaption</h3> 
+    <p>Significado semantico: figure se usa para agrupar contenido gráfico, como imágenes o diagramas, y figcaption proporciona una leyenda o descripción.</p>
+    <p>Cuándo usarla: Cuando necesitas incluir una imagen o gráfico con una descripción clara.</p>
+    
+```html
+
+    <figure>
+      <img src="imagen.jpg" alt="Descripción de la imagen">
+      <figcaption>Figura 1: Descripción de la imagen.</figcaption>
+    </figure>
+
+```
+  </li>
 </ol>
