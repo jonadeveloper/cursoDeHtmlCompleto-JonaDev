@@ -251,5 +251,49 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     
   <li>
     <h3>Nuevos Controles de Formularios</h3>
+    <ul>
+      <li>datalist: Crea una lista de sugerencias predefinidas para un campo de texto, útil para autocompletar.</li>
+      <li>output: Usado para mostrar el resultado de un cálculo o una operación dinámica en un formulario.</li>
+    </ul>
+    <br>
+    <br>
+    
+```html
+
+    <label for="ciudad">Ciudad:</label>
+    <input list="ciudades" id="ciudad" name="ciudad">
+    <datalist id="ciudades">
+      <option value="Buenos Aires">
+      <option value="Córdoba">
+      <option value="Rosario">
+    </datalist>
+
+    <form oninput="resultado.value=parseInt(a.value)+parseInt(b.value)">
+      <input type="number" id="a" name="a">
+        +
+      <input type="number" id="b" name="b">
+        =
+      <output name="resultado" for="a b">0</output>
+    </form>
+
+
+```
+
   </li> 
+  <li>
+    <h3>Atributos de validación y constricciones.</h3>
+    <ul>
+      <li>required: Hace que un campo sea obligatorio.</li>
+      <li>pattern: Permite definir un patrón de expresión regular para validar el campo.</li>
+    </ul>
+    <br>
+    <br>
+
+```html
+
+    <input type="text" id="username" name="username" pattern="[a-zA-Z0-9]+" required>
+
+```
+
+  </li>
 </ol>
