@@ -1046,14 +1046,6 @@
           <option value="fr">Francia</option>
         </select>
   
-        <label for="navegador">Navegador favorito:</label>
-        <input list="navegadores" id="navegador" name="navegador">
-        <datalist id="navegadores">
-          <option value="Chrome">
-          <option value="Firefox">
-          <option value="Safari">
-        </datalist>
-  
         <label for="comentarios">Comentarios:</label>
         <textarea id="comentarios" name="comentarios" rows="4"></textarea>
       </fieldset>
