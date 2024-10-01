@@ -237,7 +237,7 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```html
 
     <label for="email">Correo Electrónico:</label>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" >
     
     <label for="date">Fecha de nacimiento:</label>
     <input type="date" id="date" name="date">
