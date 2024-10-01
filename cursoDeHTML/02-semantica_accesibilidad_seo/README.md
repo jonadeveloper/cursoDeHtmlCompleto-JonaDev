@@ -147,5 +147,34 @@
     <p>Uso incorrecto: Similar al caso de b, se utiliza para mostrar texto en cursiva, pero sin ninguna semántica adicional.</p>
     <p>Alternativa: Usar em si el texto debe ser enfatizado o leído con un tono diferente.</p>    
   </li>
-  
+  <li>
+    <h3>font (Obsoleta en HTML5)</h3>
+    <p>Uso incorrecto: Se usaba para cambiar el color, tamaño o tipo de fuente. Aún se ve en código legado, aunque está obsoleta.</p>
+    <p>Alternativa: Usar CSS para manejar estilos de fuentes con propiedades como font-family, font-size, y color.</p>    
+  </li>
+  <li>
+    <h3>center (Obsoleta en HTML5)</h3>
+    <p>Uso incorrecto: Se utilizaba para centrar texto o elementos visuales.</p>
+    <p>Alternativa: Usar CSS con la propiedad text-align: center para centrar texto o margin: auto para centrar bloques.</p>    
+  </li>
+  <li>
+    <h3>u</h3>
+    <p>Uso incorrecto: Se utiliza para subrayar texto, pero sin darle un significado especial.</p>
+    <p>Alternativa: Usar ins (para indicar inserciones de texto en documentos) o aplicar subrayado con CSS si es solo una cuestión de estilo.</p>    
+  </li>
+  <li>
+    <h3>br</h3>
+    <p>Uso incorrecto: Se usa para forzar saltos de línea en lugar de organizar el contenido correctamente con márgenes, párrafos o bloques.</p>
+    <p>Alternativa: Usar p para crear párrafos, o controlar el espaciado entre elementos mediante CSS (margin, padding).</p>    
+  </li>
+  <li>
+    <h3>table (para diseño)</h3>
+    <p>Uso incorrecto: Se usa para maquetar la página o crear grids en lugar de usar CSS. Este era un enfoque común antes de CSS Grid o Flexbox.</p>
+    <p>Alternativa: Utilizar CSS Grid o Flexbox para el diseño de la página. Las tablas solo deben ser usadas para datos tabulares.</p>  
+  </li>
+  <li>
+    <h3>iframe (para layout)</h3>
+    <p>Uso incorrecto: Se utiliza a veces para insertar secciones de páginas externas o para organizar partes de una página dentro de otra, lo que genera problemas de accesibilidad y SEO.</p>
+    <p>Alternativa:Evitar su uso para layouts y preferir incluir contenido con APIs o servicios web cuando sea necesario insertar datos externos.</p>  
+  </li>
 </ol>
