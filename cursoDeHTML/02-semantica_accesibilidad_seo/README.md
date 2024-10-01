@@ -226,6 +226,7 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     <p>Introducción a tipos avanzados de input</p>
     <ul>
       <li>type="email": Valida automáticamente que el usuario ingrese un formato de email válido.</li>
+      <li>type="password": proporcionan una forma para que el usuario ingrese una contraseña de forma segura.</li>
       <li>type="url": Asegura que la entrada sea una URL.</li>
       <li>type="number": Solo permite ingresar números y puede tener atributos como min, max y step para especificar rangos y valores aceptables.</li>
       <li>type="date" y type="datetime-local": Permiten seleccionar fechas y tiempos con un selector gráfico.</li>
