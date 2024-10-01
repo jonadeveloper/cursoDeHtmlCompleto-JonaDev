@@ -297,3 +297,5 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 
   </li>
 </ol>
+
+<i>* Utilizando atributos como required, minlength, maxlength, pattern, entre otros. Estos permiten verificar los datos del formulario antes de ser enviados al servidor, mejorando la experiencia de usuario.</i>
