@@ -983,31 +983,6 @@
 
   </li>
   <li>
-    <h3>Etiqueta de lista de opciones predefinidas</h3>
-    <p>La etiqueta datalist, define una lista de opciones predefinidas (option) que se puede asociar con un campo de entrada.</p>
-    
-```html
-
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>Bienvenidos a mi web</title>
-  </head>
-  <body>
-    <label for="navegador">Navegador:</label>
-    <input list="navegadores" id="navegador" name="navegador">
-      <datalist id="navegadores">
-        <option value="Chrome">
-        <option value="Firefox">
-        <option value="Safari">
-        <option value="Edge">
-      </datalist>
-  </body>
-</html>
-```
-
-  </li>
-  <li>
     <h3>Etiqueta de barra de progreso</h3>
     <p>La etiqueta progress representa una barra de progreso que muestra el avance de una tarea.</p>
     
