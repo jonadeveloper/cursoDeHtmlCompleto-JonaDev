@@ -232,6 +232,21 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
       <li>type="date" y type="datetime-local": Permiten seleccionar fechas y tiempos con un selector gráfico.</li>
       <li>type="range": Crea un control de rango deslizante, ideal para selecciones numéricas rápidas.</li>
     </ul>
+    <br><br>
+    
+```html
+
+    <label for="email">Correo Electrónico:</label>
+    <input type="email" id="email" name="email" required>
+    
+    <label for="date">Fecha de nacimiento:</label>
+    <input type="date" id="date" name="date">
+    
+    <label for="range">Elija un valor:</label>
+    <input type="range" id="range" name="range" min="0" max="100">
+
+```
+    
   </li>
   <li>
     <h3>span</h3>
