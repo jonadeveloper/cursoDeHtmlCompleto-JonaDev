@@ -241,9 +241,6 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     
     <label for="date">Fecha de nacimiento:</label>
     <input type="date" id="date" name="date">
-    
-    <label for="range">Elija un valor:</label>
-    <input type="range" id="range" name="range" min="0" max="100">
 
     <label for="range">Ingrese una contraseña:</label>
     <input type="password">
