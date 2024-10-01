@@ -183,3 +183,6 @@ Usar Etiquetas Semánticas: Siempre que quieras proporcionar un contexto claro s
 <br><br>
 <i>* ¿Cuándo Usar Etiquetas No Semánticas?</i>
 Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos sin agregar contexto, o cuando necesitas aplicar estilos.</i>
+<br><br>
+
+![Copia de githubport](https://github.com/user-attachments/assets/ac72290a-818e-40c7-aff5-311f989e5de3)
