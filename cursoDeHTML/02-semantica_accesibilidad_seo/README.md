@@ -186,3 +186,8 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 <br><br>
 
 ![Copia de githubport](https://github.com/user-attachments/assets/ac72290a-818e-40c7-aff5-311f989e5de3)
+
+<h1 align="center">Diferencias entre ID y class</h1>
+
+<p>Aunque en este curso no nos vamos a centrar tanto en los estilos, entender que hay una diferencia muy marcada entre ID y class es muy importante para aplicar buenas practicas en la estructuración de un documento HTML.</p>
+
