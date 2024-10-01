@@ -851,7 +851,6 @@
   </head>
   <body>
     <input type="text" name="nombre" placeholder="Escribe tu nombre">
-    <input type="email" name="correo" placeholder="Escribe tu correo">
   </body>
 </html>
 ```
@@ -1082,8 +1081,6 @@
       <legend>Información Personal</legend>
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" required>
-        <label for="correo">Correo:</label>
-        <input type="email" id="correo" name="correo" required>
       </fieldset>
   
       <fieldset>
