@@ -178,3 +178,8 @@
     <p>Alternativa:Evitar su uso para layouts y preferir incluir contenido con APIs o servicios web cuando sea necesario insertar datos externos.</p>  
   </li>
 </ol>
+ <i>* ¿Cuándo Usar Etiquetas Semánticas?
+Usar Etiquetas Semánticas: Siempre que quieras proporcionar un contexto claro sobre el propósito de una sección o contenido en particular.</i>
+<br><br>
+<i>* ¿Cuándo Usar Etiquetas No Semánticas?</i>
+Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos sin agregar contexto, o cuando necesitas aplicar estilos.</i>
