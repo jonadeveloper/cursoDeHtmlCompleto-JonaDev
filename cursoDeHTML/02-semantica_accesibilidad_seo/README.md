@@ -187,6 +187,116 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
 ![Copia de githubport (2)](https://github.com/user-attachments/assets/482843c9-46ea-4b63-bce0-d3324d005eaf)
 
+<h2 align="center">Etiquetas de contenido multimedia</h2>
+
+<ol>
+  <li>
+    <h3>Etiqueta de imagen</h3>
+    <p>Es una etiqueta simple y se utiliza para mostrar imágenes que complementan el contenido textual. Mejora la experiencia visual y puede ser parte clave del contenido. Se utiliza el atributo src para especificar la URL de la imagen.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <img src="logo.png" alt="Logo de JonaDev" width="200" height="100">
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiqueta de video</h3>
+    <p>Esta etiqueta se utiliza para incrustar archivos de video que se pueden reproducir directamente en el navegador, con controles de reproducción como pausa y volumen.  Se utiliza el atributo src para especificar la URL del video, el atributo controls para mostrar controles de reproducción, como el botón de play, barra de progreso, etc, el atributo poster para mostrar una imagen antes de que comience la reproducción y otros atributos que veremos mas adelante.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <video src="video.mp4" controls width="600" poster="imagen-inicial.png">
+      Tu navegador no soporta el elemento de video.
+    </video>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiquetas de audio</h3>
+    <p>Similar a la anterior. Se utiliza para agregar clips de audio, como música o efectos de sonido, con controles de reproducción. Los atributos son casi los mismos que los de la etiqueta de video.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <audio src="audio.mp3" controls>
+      Tu navegador no soporta el elemento de audio.
+    </audio>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiquetas de imagenes optimizadas</h3>
+    <p>La etiqueta picture proporciona una forma más avanzada de insertar imágenes, permitiendo que el navegador elija qué imagen mostrar en función del tamaño de la pantalla o el tipo de dispositivo. Y la etiqueta source especifica diferentes fuentes de medios para los elementos video, audio, y picture.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <picture>
+      <source media="(min-width: 800px)" srcset="imagen-grande.jpg">
+      <source media="(min-width: 400px)" srcset="imagen-mediana.jpg">
+      <img src="imagen-pequeña.jpg" alt="Imagen responsive">
+    </picture>
+    <video controls>
+      <source src="video.mp4" type="video/mp4">
+      <source src="video.webm" type="video/webm">
+      Tu navegador no soporta la etiqueta de video.
+    </video>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiquetas de subtítulos y pistas de texto en videos</h3>
+    <p>La etiqueta track añade una pista de texto (subtítulos, transcripciones o descripciones) a los videos. Se usa dentro de la etiqueta video para proporcionar subtítulos o descripciones alternativas. Se utilizan los atributos kind, para definir el tipo de pista (por ejemplo, subtitles, captions, descriptions), el src para especificar la URL de la pista de subtítulos y srclang para especificar el idioma de la pista de texto.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <video controls>
+      <source src="video.mp4" type="video/mp4">
+      <track src="subtitulos.vtt" kind="subtitles" srclang="es" label="Español">
+    </video>
+  </body>
+</html>
+```
+
+  </li>
+</ol>
 
 ![Copia de githubport](https://github.com/user-attachments/assets/ac72290a-818e-40c7-aff5-311f989e5de3)
 
