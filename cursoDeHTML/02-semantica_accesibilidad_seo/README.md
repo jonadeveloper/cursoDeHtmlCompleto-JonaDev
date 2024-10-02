@@ -185,6 +185,9 @@ Usar Etiquetas Semánticas: Siempre que quieras proporcionar un contexto claro s
 Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos sin agregar contexto, o cuando necesitas aplicar estilos.</i>
 <br><br>
 
+![Copia de githubport (2)](https://github.com/user-attachments/assets/482843c9-46ea-4b63-bce0-d3324d005eaf)
+
+
 ![Copia de githubport](https://github.com/user-attachments/assets/ac72290a-818e-40c7-aff5-311f989e5de3)
 
 <h1 align="center">Diferencias entre ID y class</h1>
