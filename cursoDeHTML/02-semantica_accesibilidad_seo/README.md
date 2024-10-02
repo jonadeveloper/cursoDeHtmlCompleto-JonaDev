@@ -275,7 +275,7 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
 ![Copia de githubport (3)](https://github.com/user-attachments/assets/f7996a3c-2d0c-46f9-ad8b-1933478e42ef)
 
-![Copia de githubport (2)](https://github.com/user-attachments/assets/482843c9-46ea-4b63-bce0-d3324d005eaf)
+![Copia de githubport (4)](https://github.com/user-attachments/assets/bdd79b98-e889-45ea-a943-90b2dd750ce7)
 
 <h2 align="center">Etiquetas de contenido multimedia</h2>
 
