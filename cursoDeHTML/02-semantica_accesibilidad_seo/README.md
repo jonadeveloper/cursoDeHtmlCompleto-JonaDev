@@ -185,6 +185,94 @@ Usar Etiquetas Semánticas: Siempre que quieras proporcionar un contexto claro s
 Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos sin agregar contexto, o cuando necesitas aplicar estilos.</i>
 <br><br>
 
+![Copia de githubport (1)](https://github.com/user-attachments/assets/7a718cb1-9020-44c1-8b44-853f23b1c482)
+
+<h1 align="center">Formularios avanzados.</h1>
+
+<p>Los formularios son una de las interacciones más comunes en la web. En este punto, vamos a ver cómo crear formularios más completos y accesibles.</p>
+
+<h3>Etiquetas y Atributos Avanzados para formularios.</h3>
+
+<ol>
+  <li>
+    <h3>input (tipos avanzados)</h3>
+    <p>Introducción a tipos avanzados de input</p>
+    <ul>
+      <li>type="email": Valida automáticamente que el usuario ingrese un formato de email válido.</li>
+      <li>type="password": proporcionan una forma para que el usuario ingrese una contraseña de forma segura.</li>
+      <li>type="url": Asegura que la entrada sea una URL.</li>
+      <li>type="number": Solo permite ingresar números y puede tener atributos como min, max y step para especificar rangos y valores aceptables.</li>
+      <li>type="date" y type="datetime-local": Permiten seleccionar fechas y tiempos con un selector gráfico.</li>
+      <li>type="range": Crea un control de rango deslizante, ideal para selecciones numéricas rápidas.</li>
+    </ul>
+    <br><br>
+    
+```html
+
+    <label for="email">Correo Electrónico:</label>
+    <input type="email" id="email" name="email" >
+    
+    <label for="date">Fecha de nacimiento:</label>
+    <input type="date" id="date" name="date">
+
+    <label for="range">Ingrese una contraseña:</label>
+    <input type="password">
+
+    <input type="submit" value="Enviar">
+
+```
+    
+  <li>
+    <h3>Nuevos Controles de Formularios</h3>
+    <ul>
+      <li>datalist: Crea una lista de sugerencias predefinidas para un campo de texto, útil para autocompletar.</li>
+      <li>output: Usado para mostrar el resultado de un cálculo o una operación dinámica en un formulario.</li>
+    </ul>
+    <br>
+    <br>
+    
+```html
+
+    <label for="ciudad">Ciudad:</label>
+    <input list="ciudades" id="ciudad" name="ciudad">
+    <datalist id="ciudades">
+      <option value="Buenos Aires">
+      <option value="Córdoba">
+      <option value="Rosario">
+    </datalist>
+
+    <form oninput="resultado.value=parseInt(a.value)+parseInt(b.value)">
+      <input type="number" id="a" name="a">
+        +
+      <input type="number" id="b" name="b">
+        =
+      <output name="resultado" for="a b">0</output>
+    </form>
+
+
+```
+
+  </li> 
+  <li>
+    <h3>Atributos de validación y constricciones.</h3>
+    <ul>
+      <li>required: Hace que un campo sea obligatorio.</li>
+      <li>pattern: Permite definir un patrón de expresión regular para validar el campo.</li>
+    </ul>
+    <br>
+    <br>
+
+```html
+
+    <input type="text" id="username" name="username" pattern="[a-zA-Z0-9]+" required>
+
+```
+
+  </li>
+</ol>
+
+<i>* Utilizando atributos como required, minlength, maxlength, pattern, entre otros. Estos permiten verificar los datos del formulario antes de ser enviados al servidor, mejorando la experiencia de usuario.</i>
+
 ![Copia de githubport (2)](https://github.com/user-attachments/assets/482843c9-46ea-4b63-bce0-d3324d005eaf)
 
 <h2 align="center">Etiquetas de contenido multimedia</h2>
@@ -324,91 +412,3 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 <i>* Diferencias Clave: id es único en toda la página, mientras que class puede reutilizarse.
 En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar varios.</i>
 <br><br>
-
-![Copia de githubport (1)](https://github.com/user-attachments/assets/7a718cb1-9020-44c1-8b44-853f23b1c482)
-
-<h1 align="center">Formularios avanzados.</h1>
-
-<p>Los formularios son una de las interacciones más comunes en la web. En este punto, vamos a ver cómo crear formularios más completos y accesibles.</p>
-
-<h3>Etiquetas y Atributos Avanzados para formularios.</h3>
-
-<ol>
-  <li>
-    <h3>input (tipos avanzados)</h3>
-    <p>Introducción a tipos avanzados de input</p>
-    <ul>
-      <li>type="email": Valida automáticamente que el usuario ingrese un formato de email válido.</li>
-      <li>type="password": proporcionan una forma para que el usuario ingrese una contraseña de forma segura.</li>
-      <li>type="url": Asegura que la entrada sea una URL.</li>
-      <li>type="number": Solo permite ingresar números y puede tener atributos como min, max y step para especificar rangos y valores aceptables.</li>
-      <li>type="date" y type="datetime-local": Permiten seleccionar fechas y tiempos con un selector gráfico.</li>
-      <li>type="range": Crea un control de rango deslizante, ideal para selecciones numéricas rápidas.</li>
-    </ul>
-    <br><br>
-    
-```html
-
-    <label for="email">Correo Electrónico:</label>
-    <input type="email" id="email" name="email" >
-    
-    <label for="date">Fecha de nacimiento:</label>
-    <input type="date" id="date" name="date">
-
-    <label for="range">Ingrese una contraseña:</label>
-    <input type="password">
-
-    <input type="submit" value="Enviar">
-
-```
-    
-  <li>
-    <h3>Nuevos Controles de Formularios</h3>
-    <ul>
-      <li>datalist: Crea una lista de sugerencias predefinidas para un campo de texto, útil para autocompletar.</li>
-      <li>output: Usado para mostrar el resultado de un cálculo o una operación dinámica en un formulario.</li>
-    </ul>
-    <br>
-    <br>
-    
-```html
-
-    <label for="ciudad">Ciudad:</label>
-    <input list="ciudades" id="ciudad" name="ciudad">
-    <datalist id="ciudades">
-      <option value="Buenos Aires">
-      <option value="Córdoba">
-      <option value="Rosario">
-    </datalist>
-
-    <form oninput="resultado.value=parseInt(a.value)+parseInt(b.value)">
-      <input type="number" id="a" name="a">
-        +
-      <input type="number" id="b" name="b">
-        =
-      <output name="resultado" for="a b">0</output>
-    </form>
-
-
-```
-
-  </li> 
-  <li>
-    <h3>Atributos de validación y constricciones.</h3>
-    <ul>
-      <li>required: Hace que un campo sea obligatorio.</li>
-      <li>pattern: Permite definir un patrón de expresión regular para validar el campo.</li>
-    </ul>
-    <br>
-    <br>
-
-```html
-
-    <input type="text" id="username" name="username" pattern="[a-zA-Z0-9]+" required>
-
-```
-
-  </li>
-</ol>
-
-<i>* Utilizando atributos como required, minlength, maxlength, pattern, entre otros. Estos permiten verificar los datos del formulario antes de ser enviados al servidor, mejorando la experiencia de usuario.</i>
