@@ -273,6 +273,8 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
 <i>* Utilizando atributos como required, minlength, maxlength, pattern, entre otros. Estos permiten verificar los datos del formulario antes de ser enviados al servidor, mejorando la experiencia de usuario.</i>
 
+![Copia de githubport (3)](https://github.com/user-attachments/assets/f7996a3c-2d0c-46f9-ad8b-1933478e42ef)
+
 ![Copia de githubport (2)](https://github.com/user-attachments/assets/482843c9-46ea-4b63-bce0-d3324d005eaf)
 
 <h2 align="center">Etiquetas de contenido multimedia</h2>
