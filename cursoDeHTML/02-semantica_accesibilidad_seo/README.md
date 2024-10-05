@@ -287,8 +287,46 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
     <h3>Otras paginas dentro del mismo dominio.</h3> 
     <p>
       Por ejemplo: si tenemos un dominio como https://www.w3schools.com, un enlace interno podria ser https://www.w3schools.com/html.       </p>
+   <p>
+    href: Especifica el archivo HTML de la página a la que lleva el enlace (en este caso, contacto.html).
+   </p>
+
+```html
+
+<a href="contacto.html">Ir a la página de contacto</a>
+
+```
+
   </li>
-  <li></li>
+  <li>
+    <h3>Anclas dentro de la misma pagina.</h3>
+    <p>
+      Las anclas o tecnica de anclaje se utilizan para podes navegar entre distintas secciones dentro de la misma pagina. Por ejemplo: Si tenemos un dominio como https://landingpagejonadev.vercel.app, un ancla de este seria https://landingpagejonadev.vercel.app/#about.
+    </p>
+    <p>
+      Para definir el ancla y poder navegar hacia una seccion de la misma pagina, hay que vincular la sección con el enlace. Suponiendo que hacemos un menu para navegar entre distintas secciones a cada enlace le vamos a asignar un href compuesto por el simbolo # seguido del nombre de la seccion. (ver ejemplo abajo).
+    </p>
+    
+```html
+
+<a href="#seccion-servicios">Ver nuestros servicios</a>
+
+```
+    
+  </li>
+  <p>
+      Luego, para completar este vinculo, al crear las secciones en cuestion le vamos a asignar a cada una un id con exactamente el mismo nombre que las secciones quitando el simbolo #. (ver ejemplo abajo).
+    </p>
+    
+```html
+
+<section id="seccion-servicios">
+  <h2>Nuestros Servicios</h2>
+</section>
+
+```
+    
+  </li>
 </ol>
 
 ![Copia de githubport (4)](https://github.com/user-attachments/assets/bdd79b98-e889-45ea-a943-90b2dd750ce7)
