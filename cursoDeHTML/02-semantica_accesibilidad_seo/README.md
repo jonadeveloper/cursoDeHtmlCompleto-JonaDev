@@ -591,4 +591,18 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
 
   </li>
+  <li>
+    <h3>Formularios accesibles</h3>
+    <p>
+      Asegúrate de que los formularios estén correctamente etiquetados, utilizando la etiqueta label asociada a cada campo de formulario.
+    </p>
+
+```html
+
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre">
+
+```
+
+  </li>
 </ol>
