@@ -281,7 +281,7 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
 <h3>Enlaces internos</h3>
 
-<p>Los enlaces internos son aquellos que apuntan</p>
+<p>Los enlaces internos son aquellos que apuntan a otra parte dentro del mismo sitio web o a una sección específica de la misma página. Pueden apuntar a:</p>
 
 ![Copia de githubport (4)](https://github.com/user-attachments/assets/bdd79b98-e889-45ea-a943-90b2dd750ce7)
 
