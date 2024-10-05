@@ -487,3 +487,7 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 <i>* Diferencias Clave: id es único en toda la página, mientras que class puede reutilizarse.
 En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar varios.</i>
 <br><br>
+
+![Copia de githubport (5)](https://github.com/user-attachments/assets/dab20bec-ea0c-47ff-8e09-e072606b37dd)
+
+
