@@ -279,14 +279,9 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
 <p>Es esencial entender la diferencia entre enlaces internos y enlaces externos, ya que ambos juegan un papel importante en la navegación de sitios web.</p>
 
-<ol>
-  <li>
-    <h3>Enlaces internos</h3>
-  </li>
-  <li>
-    <h3>Enlaces externos</h3>
-  </li>
-</ol>
+<h3>Enlaces internos</h3>
+
+<p>Los enlaces internos son aquellos que apuntan</p>
 
 ![Copia de githubport (4)](https://github.com/user-attachments/assets/bdd79b98-e889-45ea-a943-90b2dd750ce7)
 
