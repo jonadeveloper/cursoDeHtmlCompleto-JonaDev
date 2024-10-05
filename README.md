@@ -70,6 +70,9 @@
     Multimedia.
   </li>
   <li>
+    Diferencias entre ID y class.
+  </li>
+  <li>
     Accesibilidad.
   </li>
   <li>
