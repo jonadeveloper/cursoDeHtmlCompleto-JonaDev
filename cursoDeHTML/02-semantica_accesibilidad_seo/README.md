@@ -491,3 +491,5 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ![Copia de githubport (5)](https://github.com/user-attachments/assets/dab20bec-ea0c-47ff-8e09-e072606b37dd)
 
 <h2 align="center">Accesibilidad en HTML</h2>
+
+<p>La accesibilidad web consiste en garantizar que las personas con discapacidades visuales, auditivas, físicas, del habla, cognitivas o neurológicas puedan utilizar la web de manera efectiva. Incluir accesibilidad en el desarrollo web también mejora la experiencia para todos los usuarios, haciendo los sitios más intuitivos y fáciles de usar.</p>
