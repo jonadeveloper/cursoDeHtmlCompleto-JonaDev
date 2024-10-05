@@ -550,10 +550,18 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 
   </li>
   <li>
-    <h3></h3>
+    <h3>Texto alternativo en imagenes (alt)</h3>
     <p>
-      
+      Las imágenes deben tener texto alternativo que describa su contenido o función. Esto es esencial para los lectores de 
+      pantalla utilizados por personas con discapacidad visual.
     </p>
+
+```html
+
+    <img src="imagen.jpg" alt="Descripción de la imagen">
+
+```
+
   </li>
   <li>
     <h3></h3>
