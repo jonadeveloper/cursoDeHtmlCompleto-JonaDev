@@ -564,10 +564,17 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 
   </li>
   <li>
-    <h3></h3>
+    <h3>Enlaces descriptivos</h3>
     <p>
-      
+      Los textos de los enlaces deben ser claros y describir a dónde llevan. Evita textos como "Haz clic aquí" o "Más información".
     </p>
+
+```html
+
+    <a href="contacto.html">Contáctanos</a>
+
+```
+    
   </li>
   <li>
     <h3></h3>
