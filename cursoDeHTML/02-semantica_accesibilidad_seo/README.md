@@ -577,9 +577,18 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     
   </li>
   <li>
-    <h3></h3>
+    <h3>Uso correcto de los encabezados (respetar su jerarquia)</h3>
     <p>
-      
+      La jerarquía de encabezados (h1, h2, h3, etc.) ayuda a estructurar el contenido y permite a los usuarios de lectores de 
+      pantalla navegar fácilmente por la página. No olvides que se permite solo un encabezado H1 por pagina.
     </p>
+
+```html
+
+    <h1>Título principal</h1>
+    <h2>Subtítulo o tema relacionado</h2>
+
+```
+
   </li>
 </ol>
