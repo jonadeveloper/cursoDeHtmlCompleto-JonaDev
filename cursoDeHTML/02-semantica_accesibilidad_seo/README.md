@@ -605,4 +605,19 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
 
   </li>
+  <li>
+    <h3>Uso del atributo aria ARIA (Accessible Rich Internet Applications)</h3>
+    <p>
+      mejora la accesibilidad de componentes interactivos. Existen varios roles y atributos ARIA que proporcionan más 
+      información a los lectores de pantalla.
+    </p>
+
+```html
+
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre">
+
+```
+
+  </li>
 </ol>
