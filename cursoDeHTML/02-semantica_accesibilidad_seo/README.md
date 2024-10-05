@@ -1,6 +1,6 @@
 ![4](https://github.com/user-attachments/assets/c3ce67c9-e43a-4e4d-bc31-669258367b8d)
 
-<h1 align="center">Introducción a la semantica HTML</h1>
+<h2 align="center">Introducción a la semantica HTML</h2>
 
 <p>En este punto, ya vimos cuales son las etiquetas basicas de HTML y un poco más. A partir de ahora vamos a ver las etiquetas semanticas. Lo que va a mejorar la accesibilidad, SEO, y la estructura del documento.</p>
 
@@ -187,7 +187,7 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
 ![Copia de githubport (1)](https://github.com/user-attachments/assets/7a718cb1-9020-44c1-8b44-853f23b1c482)
 
-<h1 align="center">Formularios avanzados.</h1>
+<h2 align="center">Formularios avanzados.</h2>
 
 <p>Los formularios son una de las interacciones más comunes en la web. En este punto, vamos a ver cómo crear formularios más completos y accesibles.</p>
 
@@ -463,7 +463,7 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
 ![Copia de githubport](https://github.com/user-attachments/assets/ac72290a-818e-40c7-aff5-311f989e5de3)
 
-<h1 align="center">Diferencias entre ID y class</h1>
+<h2 align="center">Diferencias entre ID y class</h2>
 
 <p>Aunque en este curso no nos vamos a centrar tanto en los estilos, entender que hay una diferencia muy marcada entre ID y class es muy importante para aplicar buenas practicas en la estructuración de un documento HTML.</p>
 
@@ -490,4 +490,4 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 
 ![Copia de githubport (5)](https://github.com/user-attachments/assets/dab20bec-ea0c-47ff-8e09-e072606b37dd)
 
-
+<h2 align="center">Accesibilidad en HTML</h2>
