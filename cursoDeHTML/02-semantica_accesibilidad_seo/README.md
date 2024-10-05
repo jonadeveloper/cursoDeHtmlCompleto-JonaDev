@@ -515,3 +515,5 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     </p>
   </li>
 </ul>
+
+<h3>Elementos fundamentales de la accesibilidad en HTML</h3>
