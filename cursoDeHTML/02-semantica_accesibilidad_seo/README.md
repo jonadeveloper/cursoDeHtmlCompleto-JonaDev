@@ -272,6 +272,7 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 </ol>
 
 <i>* Utilizando atributos como required, minlength, maxlength, pattern, entre otros. Estos permiten verificar los datos del formulario antes de ser enviados al servidor, mejorando la experiencia de usuario.</i>
+<br><br>
 
 ![Copia de githubport (3)](https://github.com/user-attachments/assets/f7996a3c-2d0c-46f9-ad8b-1933478e42ef)
 
@@ -342,6 +343,8 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 <p>
   Como podemos ver en el ejemplo, nos encontramos con un atributo nuevo. El target. Este nuevo atributo se utiliza dentro de la etiqueta de enlace y nos sirve para indicar donde queremos que se abra el recurso vinculado. El valor _blank hace que el recurso se abra en una nueva ventana. Esto es extremadamente util, ya que abrir enlaces externos en una nueva pestaña es una práctica que mejora la fluidez de la navegación. Si un enlace redirige al usuario a un sitio externo, es probable que no desee abandonar la página actual, especialmente si está realizando una actividad importante.
 </p>
+
+<br><br>
 
 ![Copia de githubport (4)](https://github.com/user-attachments/assets/bdd79b98-e889-45ea-a943-90b2dd750ce7)
 
@@ -455,6 +458,8 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 
   </li>
 </ol>
+
+<br><br>
 
 ![Copia de githubport](https://github.com/user-attachments/assets/ac72290a-818e-40c7-aff5-311f989e5de3)
 
