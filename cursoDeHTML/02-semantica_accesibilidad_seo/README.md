@@ -517,3 +517,54 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 </ul>
 
 <h3>Elementos fundamentales de la accesibilidad en HTML</h3>
+
+<ol>
+  <li>
+    <h3>Uso de etiquetas semanticas.</h3>
+    <p>
+      Como vimos anteriormente, las etiquetas semanticas describen claramente el contenido de un sitio web, lo que ayuda a 
+      los navegadores, lectores de pantalla y motores de búsqueda a comprender mejor la estructura de una página.
+    </p>
+
+```html
+
+    <header>
+      <h1>Título principal del sitio</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Acerca de</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section>
+        <h2>Sección importante</h2>
+        <p>Este es el contenido principal.</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2024 Mi Sitio Web</p>
+    </footer>
+```
+
+  </li>
+  <li>
+    <h3></h3>
+    <p>
+      
+    </p>
+  </li>
+  <li>
+    <h3></h3>
+    <p>
+      
+    </p>
+  </li>
+  <li>
+    <h3></h3>
+    <p>
+      
+    </p>
+  </li>
+</ol>
