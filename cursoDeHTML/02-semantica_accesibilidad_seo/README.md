@@ -638,3 +638,8 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     </p>
   </li>
 </ol>
+
+<h3>Roles Aria</h3>
+<p>
+  Los roles ARIA definen el propósito o comportamiento de un elemento HTML para los usuarios que dependen de tecnologías de asistencia.
+</p>
