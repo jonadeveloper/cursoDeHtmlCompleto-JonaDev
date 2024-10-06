@@ -624,6 +624,13 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 
   </li>
   <li>
+    <h3>Contraste de color</h3>
+    <p>
+      Asegúrate de que haya suficiente contraste entre el texto y el fondo para que sea legible por personas con baja visión. 
+      Vamos a profundizar mas este tema en el curso de CSS.
+    </p>
+  </li>
+  <li>
     <h3>Uso del atributo ARIA (Accessible Rich Internet Applications)</h3>
     <p>
       mejora la accesibilidad de componentes interactivos. Existen varios roles y atributos ARIA que proporcionan más 
