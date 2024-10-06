@@ -807,3 +807,88 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 <p>
   Los atributos ARIA complementan los roles, proporcionando más detalles sobre el estado, propiedades y relaciones de los elementos.
 </p>
+
+<h3>Atributos de estado y propiedades</h3>
+
+<ol>
+  <li>
+    <h4>aria-hidden="true":</h4>
+    <p>
+      Indica que un elemento debe ser ignorado por las tecnologías de asistencia. Se usa cuando el contenido es 
+      irrelevante para los lectores de pantalla.
+    </p>
+  </li>
+  <li>
+    <h4>aria-disabled="true":</h4>
+    <p>
+      Indica que un elemento está deshabilitado y no puede ser interactuado.
+    </p>
+  </li>
+  <li>
+    <h4>aria-expanded="true/false":</h4>
+    <p>
+      Indica si un elemento desplegable (como un menú o acordeón) está expandido (true) o colapsado (false).
+    </p>
+  </li>
+  <li>
+    <h4>aria-checked="true/false/mixed":</h4>
+    <p>
+      Indica el estado de un control de selección, como un checkbox (true para marcado, false para no marcado, 
+      y mixed para un estado indeterminado).
+    </p>
+  </li>
+  <li>
+    <h4>aria-selected="true/false":</h4>
+    <p>
+      Indica si un elemento, como una opción de lista, está seleccionado.
+    </p>
+  </li>
+  <li>
+    <h4>aria-label="Texto":</h4>
+    <p>
+      Define una etiqueta personalizada para un elemento que puede no tener texto visible, 
+      útil para botones de íconos o elementos gráficos.
+    </p>
+  </li>
+  <li>
+    <h4>aria-labelledby="ID":</h4>
+    <p>
+      Asocia el elemento con un ID de otro elemento que actúa como su etiqueta. Similar a label en formularios, 
+      pero permite etiquetas más complejas.
+    </p>
+  </li>
+  <li>
+    <h4>aria-describedby="ID":</h4>
+    <p>
+      Asocia un elemento con un ID de otro elemento que proporciona una descripción adicional, útil para proporcionar 
+      más contexto sobre el uso o estado de un control.
+    </p>
+  </li>
+  <li>
+    <h4>aria-controls="ID":</h4>
+    <p>
+      Indica que el elemento controla otro elemento (por ejemplo, un botón que controla la visibilidad de un panel desplegable).
+    </p>
+  </li>
+  <li>
+    <h4>aria-live="polite/assertive":</h4>
+    <p>
+      Define el nivel de prioridad para que los lectores de pantalla anuncien cambios en el contenido dinámico.
+      <br>polite: No interrumpir al usuario, esperar hasta que termine su acción.
+      <br>assertive: Interrumpir inmediatamente para anunciar el cambio.
+    </p>
+  </li>
+  <li>
+    <h4>aria-role="tablist":</h4>
+    <p>
+      Indica un contenedor de pestañas (tab) que gestiona la interacción entre pestañas y paneles de contenido.
+    </p>
+  </li>
+  <li>
+    <h4>aria-busy="true/false":</h4>
+    <p>
+      Indica que el elemento está cargando o está ocupado. Cuando true, las tecnologías de asistencia 
+      informarán al usuario que el elemento aún está ocupado y no debe interactuar con él.
+    </p>
+  </li>
+</ol>
