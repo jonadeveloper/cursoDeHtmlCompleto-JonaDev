@@ -802,3 +802,8 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     </p>
   </li>
 </ol>
+
+<h3>Atributos ARIA.</h3>
+<p>
+  Los atributos ARIA complementan los roles, proporcionando más detalles sobre el estado, propiedades y relaciones de los elementos.
+</p>
