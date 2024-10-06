@@ -655,4 +655,11 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
       Normalmente se asigna a header.
     </p>
   </li>
+  <li>
+    <h4>role="navigation":</h4>
+    <p>
+      Define una barra de navegación, ayudando a los usuarios a identificar secciones de navegación.
+      Usualmente asignado a nav.
+    </p>
+  </li>
 </ol>
