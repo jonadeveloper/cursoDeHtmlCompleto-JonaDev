@@ -894,3 +894,7 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 </ol>
 
 ![Copia de githubport (7)](https://github.com/user-attachments/assets/4e5812fa-b382-4d3f-a1a7-4087ee935243)
+
+<h2 align="center">Introducción al SEO (Search Engine Optimization)</h2>
+
+<p>El objetivo principal del SEO es, hacer que una web sea facilmente entendible tanto para los motores de busqueda como para los usuarios. </p>
