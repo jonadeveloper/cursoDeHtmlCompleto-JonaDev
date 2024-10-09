@@ -897,4 +897,4 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 
 <h2 align="center">Introducción al SEO (Search Engine Optimization)</h2>
 
-<p>El objetivo principal del SEO es, hacer que una web sea facilmente entendible tanto para los motores de busqueda como para los usuarios. </p>
+<p>El objetivo principal del SEO es, hacer que una web sea facilmente entendible tanto para los motores de busqueda como para los usuarios. Esto permite mejorar su posicionamiento en los resultados de búsqueda. Un SEO bien implementado favorece la llegada de tráfico orgánico al sitio, es decir, sin necesidad de recurrir a anuncios pagados.</p>
