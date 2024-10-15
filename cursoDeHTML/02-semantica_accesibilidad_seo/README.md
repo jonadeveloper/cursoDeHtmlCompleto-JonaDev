@@ -913,3 +913,5 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     <p>Relacionado con la arquitectura del sitio y la indexabilidad.</p>
   </li>
 </ol>
+
+<h3>Elementos de HTML que afectan el SEO</h3>
