@@ -915,3 +915,56 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 </ol>
 
 <h3>Elementos de HTML que afectan el SEO</h3>
+
+<ol>
+  <li>
+    <h3> Etiquetas de título.</h3>
+    <p>
+      La etiqueta title es uno de los factores más importantes para el SEO. Es el título de la página 
+      que aparece en la pestaña del navegador y es también el primer texto que los motores de búsqueda ven.
+    </p>
+    <ul>
+      <li>
+        <p>
+          Longitud recomendada: Entre 50 y 60 caracteres.
+        </p>
+      </li>
+      <li>
+        <p>
+          Incluye palabras clave relevantes: Asegúrate de que el título 
+          contenga las palabras clave principales, pero de manera natural.
+        </p>
+      </li>
+    </ul>
+      
+```html
+    <title>Guía completa de SEO en HTML | Curso de HTML</title>
+```
+      
+  </li>
+  <li>
+    <h3> Meta descripción.</h3>
+    <p>
+      La meta descripción es un breve resumen de la página que aparece debajo del título en los resultados de búsqueda. 
+      Aunque no afecta directamente al ranking, una buena descripción puede mejorar la tasa de clics (CTR).
+    </p>
+    <ul>
+      <li>
+        <p>
+          Longitud recomendada: Entre 150 y 160 caracteres.
+        </p>
+      </li>
+      <li>
+        <p>
+          Debe ser descriptiva y contener palabras clave.
+        </p>
+      </li>
+    </ul>
+      
+```html
+    <meta name="description" content="Aprende SEO para mejorar el ranking de tu sitio web en los motores de búsqueda con esta guía completa de HTML.">
+
+```
+      
+  </li>
+</ol>
