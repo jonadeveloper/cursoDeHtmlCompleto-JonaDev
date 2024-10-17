@@ -967,4 +967,32 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
       
   </li>
+  <li>
+    <h3>Encabezados.</h3>
+    <p>
+      Los encabezados estructuran el contenido de la página, facilitando tanto la lectura para los usuarios como la 
+      comprensión para los motores de búsqueda. Los encabezados deben seguir una jerarquía lógica.
+    </p>
+    <ul>
+      <li>
+        <p>
+          h1: Debe contener el título principal de la página, y solo debe haber uno por página.
+        </p>
+      </li>
+      <li>
+        <p>
+         h2, h3: Se usan para subtítulos y organizar el contenido.
+        </p>
+      </li>
+    </ul>
+      
+```html
+    <h1>Guía de SEO para HTML</h1>
+    <h2>¿Qué es SEO?</h2>
+    <h3>Importancia de SEO On-Page</h3>
+
+
+```
+      
+  </li>
 </ol>
