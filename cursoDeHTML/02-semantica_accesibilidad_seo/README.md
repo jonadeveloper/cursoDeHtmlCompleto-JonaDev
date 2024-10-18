@@ -995,4 +995,29 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
       
   </li>
+  <li>
+    <h3>URLs amigables (SEO-friendly URLs).</h3>
+    <p>
+      Las URLs deben ser claras, descriptivas y contener palabras clave relevantes. 
+      Evita las URLs largas y con parámetros complicados.
+    </p>
+    <ul>
+      <li>
+        <p>
+          Usa guiones (-) para separar palabras.
+        </p>
+      </li>
+      <li>
+        <p>
+         Mantén las URLs cortas y descriptivas.
+        </p>
+      </li>
+    </ul>
+      
+```html
+    https://www.ejemplo.com/curso-seo-html-basico
+
+```
+      
+  </li>
 </ol>
