@@ -1034,4 +1034,31 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
       
   </li>
+  <li>
+    <h3>Enlaces internos.</h3>
+    <p>
+      Conectan páginas dentro del mismo sitio web. 
+      Ayudan a los motores de búsqueda a descubrir más contenido en tu sitio.
+    </p>
+      
+```html
+    <a href="/guia-seo">Guía completa de SEO</a>
+
+```
+
+  </li>
+  <li>
+    <h3>Enlaces externos.</h3>
+    <p>
+      Enlaces a sitios web externos relevantes y de alta calidad. Estos enlaces pueden mejorar tu autoridad si son confiables.
+    </p>
+      
+```html
+    <a href="https://www.google.com/webmasters/">Google Search Central</a>
+
+```
+
+  </li>
+      
+  
 </ol>
