@@ -1059,6 +1059,43 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
 
   </li>
+  <li>
+    <h3>Atributo rel en enlaces (rel="nofollow", rel="noopener").</h3>
+    <p>
+      El atributo rel le dice a los motores de búsqueda cómo tratar los enlaces. 
+      Por ejemplo, rel="nofollow" indica que no se debe transferir "autoridad" (link juice) al sitio vinculado.
+    </p>
+    <ul>
+      <li>
+        <p>
+          rel="nofollow": Úsalo para enlaces pagados o patrocinados.
+        </p>
+
+```html
+    <a href="https://www.sitio.com" rel="nofollow">Enlace patrocinado</a>
+
+```
+        
+      </li>
+      <li>
+        <p>
+         rel="noopener" y rel="noreferrer": Son buenas prácticas de seguridad cuando 
+         se usan enlaces que abren en nuevas pestañas (target="_blank").
+        </p>
+
+```html
+    <a href="https://www.sitio-seguro.com" target="_blank" rel="noopener noreferrer">Abrir en nueva pestaña</a>
+
+```
+                
+      </li>
+    </ul>
       
+```html
+    https://www.ejemplo.com/curso-seo-html-basico
+
+```
+      
+  </li>
   
 </ol>
