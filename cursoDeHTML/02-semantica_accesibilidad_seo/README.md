@@ -1020,4 +1020,18 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
       
   </li>
+  <li>
+    <h3>Atributo alt en imágenes.</h3>
+    <p>
+      El atributo alt proporciona una descripción de las imágenes, 
+      lo que es útil para los motores de búsqueda y también para la accesibilidad. 
+      Al incluir palabras clave relevantes en el alt, puedes mejorar el SEO de la página.
+    </p>
+      
+```html
+    <img src="seo.jpg" alt="Guía completa de SEO en HTML">
+
+```
+      
+  </li>
 </ol>
