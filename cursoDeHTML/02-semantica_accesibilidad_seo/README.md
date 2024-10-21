@@ -1093,4 +1093,28 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
                 
   </li>  
+  <li>
+    <h3>Sitemap.</h3>
+    <p>
+      Un sitemap es un archivo XML que enumera todas las páginas de tu sitio y ayuda a los motores de búsqueda a indexarlas. 
+      Aunque no es directamente parte del HTML, es fundamental para el SEO técnico.
+    </p>
+      
+```xml
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://www.ejemplo.com/</loc>
+      <lastmod>2024-10-05</lastmod>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://www.ejemplo.com/curso-seo</loc>
+      <lastmod>2024-10-01</lastmod>
+      <priority>0.80</priority>
+   </url>
+</urlset>
+
+```
+      
+  </li>
 </ol>
