@@ -1117,4 +1117,19 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
       
   </li>
+  <li>
+    <h3>Robots.txt</h3>
+    <p>
+      El archivo robots.txt le indica a los motores de búsqueda qué páginas de tu sitio pueden o no pueden ser indexadas.
+    </p>
+      
+```txt
+    User-agent: *
+    Disallow: /admin/
+    Allow: /
+
+
+```
+      
+  </li>
 </ol>
