@@ -1132,4 +1132,24 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 ```
       
   </li>
+  <li>
+    <h3>Rich Snippets (Microdatos y Schema.org)</h3>
+    <p>
+      Los Rich Snippets son fragmentos enriquecidos que se muestran en los resultados de búsqueda, 
+      proporcionando información adicional (como valoraciones, recetas, eventos, etc.).
+      El marcado de Schema.org es el más común y proporciona una manera de estructurar 
+      los datos de tu página para que los motores de búsqueda puedan mostrar información adicional.
+    </p>
+      
+```html
+    <div itemscope itemtype="http://schema.org/Product">
+      <span itemprop="name">Camiseta SEO</span>
+      <span itemprop="priceCurrency" content="USD">$</span><span itemprop="price">19.99</span>
+      <img src="camiseta.jpg" alt="Camiseta SEO" itemprop="image">
+      <meta itemprop="productID" content="12345">
+    </div>
+
+```
+      
+  </li>
 </ol>
