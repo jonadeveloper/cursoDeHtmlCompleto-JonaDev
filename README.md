@@ -84,9 +84,6 @@
 <p>En este utimo nivel vamos a ir hacia la optimización, rendimiento y buenas practicas. Vamos a poner en practica los siguientes temas:</p>
 <ul>
   <li>
-    Nuevas caracteristicas de HTML.
-  </li>
-  <li>
     Almacenamiento local y cookies.
   </li>
   <li>
