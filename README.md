@@ -95,9 +95,6 @@
   <li>
     Optimización del rendimiento.
   </li>
-  <li>
-    Buenas prácticas en el uso de HTML.
-  </li>
 </ul>
 
 <h3>4 - Proyecto final.</h3>
