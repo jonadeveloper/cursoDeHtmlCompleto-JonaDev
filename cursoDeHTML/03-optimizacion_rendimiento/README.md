@@ -4,4 +4,3 @@
 
 <p>EEste nivel avanzado del curso de HTML se enfoca en mejorar el rendimiento de las aplicaciones web y en aplicar las mejores prácticas para garantizar su escalabilidad y mantenibilidad a largo plazo. Vamos a cubrir áreas clave como optimización de gráficos, integración avanzada con CSS, y otras estrategias que ayudan a maximizar el rendimiento.</p>
 
-<p>o</p>
