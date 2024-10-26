@@ -84,13 +84,10 @@
 <p>En este utimo nivel vamos a ir hacia la optimización, rendimiento y buenas practicas. Vamos a poner en practica los siguientes temas:</p>
 <ul>
   <li>
-    Almacenamiento local y cookies.
-  </li>
-  <li>
     Elementos graficos.
   </li>
   <li>
-    Integración con CSS y JavaScript.
+    Integración con CSS.
   </li>
   <li>
     Optimización del rendimiento.
