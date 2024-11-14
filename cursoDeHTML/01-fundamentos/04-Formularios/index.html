@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+
+<body>
+    <!-- Etiqueta contenedora del formulario -->
+    <form>
+        <!-- Etiqueta descriptiva -->
+        <label for="Nombre">Nombre:</label>
+        <!-- campo de entrada de datos -->
+        <input type="text" name="nombre" placeholder="Escribe tu nombre">
+        <label for="Edad">Edad:</label>
+        <input type="number" name="edad" placeholder="Escribe tu edad">
+        <label for="password">Contraseña:</label>
+        <input type="password" name="password" placeholder="Escribe tu contraseña">
+        <!-- Etiqueta de menu desplegable -->
+        <label for="pais">Pais:</label>
+        <select id="pais" name="pais">
+            <option value="ar">Argentina</option>
+            <option value="fr">Francia</option>
+        </select>
+        <!-- Etiquetas de grupo de opciones -->
+        <label for="pais">Pais:</label>
+        <select id="pais" name="pais">
+            <optgroup label="Argentina">
+                <option value="buenos_aires">Buenos Aires</option>
+                <option value="cordoba">Cordoba</option>
+            </optgroup>
+            <optgroup label="Francia">
+                <option value="paris">Paris</option>
+                <option value="marsella">Marsella</option>
+            </optgroup>
+        </select>
+        <!-- Etiqueta de area de texto -->
+        <br>
+        <textarea name="comentarios" placeholder="Escribe tus comentarios"></textarea>
+        <!-- Etiqueta de boton -->
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+
+</html>

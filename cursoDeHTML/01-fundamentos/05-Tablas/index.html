@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablas</title>
+</head>
+
+<body>
+    <!-- Eiqueta contenedora de tablas -->
+    <table>
+        <!-- Etiqueta de titulo o descripcion de la tabla -->
+        <caption>Precios de productos</caption>
+        <!-- definir los estilos de las columnas -->
+        <colgroup>
+            <col span="1">
+            <col span="1">
+            <col span="1" style="background-color: green">
+        </colgroup>
+        <!-- Etiqueta de cabecera de tabla -->
+        <tr>
+            <th>Producto</th>
+            <th>Tienda A</th>
+            <th>Tienda B</th>
+        </tr>
+        <!-- Etiqueta de cuerpo de la tabla -->
+        <tbody>
+            <tr>
+                <td>Manzana</td>
+                <td>$1</td>
+                <td>$1.20</td>
+            </tr>
+            <tr>
+                <td>Banana</td>
+                <td>$1.40</td>
+                <td>$1.80</td>
+            </tr>
+            <tr>
+                <td>Naranja</td>
+                <td>$2.20</td>
+                <td>$3.20</td>
+            </tr>
+            <!-- Etiqueta de pie de tabla -->
+        <tfoot>
+            <tr>
+                <td>Total</td>
+                <td>$4.60</td>
+                <td>$6.20</td>
+            </tr>
+        </tfoot>
+        </tbody>
+    </table>
+</body>
+
+</html>
