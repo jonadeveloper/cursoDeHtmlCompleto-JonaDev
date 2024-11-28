@@ -185,94 +185,7 @@ Usar Etiquetas Semánticas: Siempre que quieras proporcionar un contexto claro s
 Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos sin agregar contexto, o cuando necesitas aplicar estilos.</i>
 <br><br>
 
-![Copia de githubport (1)](https://github.com/user-attachments/assets/7a718cb1-9020-44c1-8b44-853f23b1c482)
 
-<h2 align="center">Formularios avanzados.</h2>
-
-<p>Los formularios son una de las interacciones más comunes en la web. En este punto, vamos a ver cómo crear formularios más completos y accesibles.</p>
-
-<h3>Etiquetas y Atributos Avanzados para formularios.</h3>
-
-<ol>
-  <li>
-    <h3>input (tipos avanzados)</h3>
-    <p>Introducción a tipos avanzados de input</p>
-    <ul>
-      <li>type="email": Valida automáticamente que el usuario ingrese un formato de email válido.</li>
-      <li>type="password": proporcionan una forma para que el usuario ingrese una contraseña de forma segura.</li>
-      <li>type="url": Asegura que la entrada sea una URL.</li>
-      <li>type="number": Solo permite ingresar números y puede tener atributos como min, max y step para especificar rangos y valores aceptables.</li>
-      <li>type="date" y type="datetime-local": Permiten seleccionar fechas y tiempos con un selector gráfico.</li>
-      <li>type="range": Crea un control de rango deslizante, ideal para selecciones numéricas rápidas.</li>
-    </ul>
-    <br><br>
-    
-```html
-
-    <label for="email">Correo Electrónico:</label>
-    <input type="email" id="email" name="email" >
-    
-    <label for="date">Fecha de nacimiento:</label>
-    <input type="date" id="date" name="date">
-
-    <label for="range">Ingrese una contraseña:</label>
-    <input type="password">
-
-    <input type="submit" value="Enviar">
-
-```
-    
-  <li>
-    <h3>Nuevos Controles de Formularios</h3>
-    <ul>
-      <li>datalist: Crea una lista de sugerencias predefinidas para un campo de texto, útil para autocompletar.</li>
-      <li>output: Usado para mostrar el resultado de un cálculo o una operación dinámica en un formulario.</li>
-    </ul>
-    <br>
-    <br>
-    
-```html
-
-    <label for="ciudad">Ciudad:</label>
-    <input list="ciudades" id="ciudad" name="ciudad">
-    <datalist id="ciudades">
-      <option value="Buenos Aires">
-      <option value="Córdoba">
-      <option value="Rosario">
-    </datalist>
-
-    <form oninput="resultado.value=parseInt(a.value)+parseInt(b.value)">
-      <input type="number" id="a" name="a">
-        +
-      <input type="number" id="b" name="b">
-        =
-      <output name="resultado" for="a b">0</output>
-    </form>
-
-
-```
-
-  </li> 
-  <li>
-    <h3>Atributos de validación y constricciones.</h3>
-    <ul>
-      <li>required: Hace que un campo sea obligatorio.</li>
-      <li>pattern: Permite definir un patrón de expresión regular para validar el campo.</li>
-    </ul>
-    <br>
-    <br>
-
-```html
-
-    <input type="text" id="username" name="username" pattern="[a-zA-Z0-9]+" required>
-
-```
-
-  </li>
-</ol>
-
-<i>* Utilizando atributos como required, minlength, maxlength, pattern, entre otros. Estos permiten verificar los datos del formulario antes de ser enviados al servidor, mejorando la experiencia de usuario.</i>
-<br><br>
 
 ![Copia de githubport (3)](https://github.com/user-attachments/assets/f7996a3c-2d0c-46f9-ad8b-1933478e42ef)
 
@@ -343,94 +256,6 @@ Usar Etiquetas No Semánticas: Cuando simplemente necesitas agrupar elementos si
 <p>
   Como podemos ver en el ejemplo, nos encontramos con un atributo nuevo. El target. Este nuevo atributo se utiliza dentro de la etiqueta de enlace y nos sirve para indicar donde queremos que se abra el recurso vinculado. El valor _blank hace que el recurso se abra en una nueva ventana. Esto es extremadamente util, ya que abrir enlaces externos en una nueva pestaña es una práctica que mejora la fluidez de la navegación. Si un enlace redirige al usuario a un sitio externo, es probable que no desee abandonar la página actual, especialmente si está realizando una actividad importante.
 </p>
-
-<br><br>
-
-![Copia de githubport (4)](https://github.com/user-attachments/assets/bdd79b98-e889-45ea-a943-90b2dd750ce7)
-
-<h2 align="center">Etiquetas de contenido multimedia</h2>
-
-<ol>
-  <li>
-    <h3>Etiqueta de imagen</h3>
-    <p>Es una etiqueta simple y se utiliza para mostrar imágenes que complementan el contenido textual. Mejora la experiencia visual y puede ser parte clave del contenido. Se utiliza el atributo src para especificar la URL de la imagen.</p>
-    
-```html
-
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>Bienvenidos a mi web</title>
-  </head>
-  <body>
-    <img src="logo.png" alt="Logo de JonaDev" width="200" height="100">
-  </body>
-</html>
-```
-
-  </li>
-  <li>
-    <h3>Etiqueta de video</h3>
-    <p>Esta etiqueta se utiliza para incrustar archivos de video que se pueden reproducir directamente en el navegador, con controles de reproducción como pausa y volumen.  Se utiliza el atributo src para especificar la URL del video, el atributo controls para mostrar controles de reproducción, como el botón de play, barra de progreso, etc, el atributo poster para mostrar una imagen antes de que comience la reproducción y otros atributos que veremos mas adelante.</p>
-    
-```html
-
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>Bienvenidos a mi web</title>
-  </head>
-  <body>
-    <video src="video.mp4" controls width="600" poster="imagen-inicial.png">
-      Tu navegador no soporta el elemento de video.
-    </video>
-  </body>
-</html>
-```
-
-  </li>
-  <li>
-    <h3>Etiquetas de audio</h3>
-    <p>Similar a la anterior. Se utiliza para agregar clips de audio, como música o efectos de sonido, con controles de reproducción. Los atributos son casi los mismos que los de la etiqueta de video.</p>
-    
-```html
-
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>Bienvenidos a mi web</title>
-  </head>
-  <body>
-    <audio src="audio.mp3" controls>
-      Tu navegador no soporta el elemento de audio.
-    </audio>
-  </body>
-</html>
-```
-
-  </li>
-  <li>
-    <h3>Etiquetas de subtítulos y pistas de texto en videos</h3>
-    <p>La etiqueta track añade una pista de texto (subtítulos, transcripciones o descripciones) a los videos. Se usa dentro de la etiqueta video para proporcionar subtítulos o descripciones alternativas. Se utilizan los atributos kind, para definir el tipo de pista (por ejemplo, subtitles, captions, descriptions), el src para especificar la URL de la pista de subtítulos y srclang para especificar el idioma de la pista de texto.</p>
-    
-```html
-
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <title>Bienvenidos a mi web</title>
-  </head>
-  <body>
-    <video controls>
-      <source src="video.mp4" type="video/mp4">
-      <track src="subtitulos.vtt" kind="subtitles" srclang="es" label="Español">
-    </video>
-  </body>
-</html>
-```
-
-  </li>
-</ol>
 
 <br><br>
 
@@ -611,6 +436,182 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
     </p>
   </li>
 </ol>
+<br><br>
+
+![Copia de githubport (4)](https://github.com/user-attachments/assets/bdd79b98-e889-45ea-a943-90b2dd750ce7)
+
+<h2 align="center">Etiquetas de contenido multimedia</h2>
+
+<ol>
+  <li>
+    <h3>Etiqueta de imagen</h3>
+    <p>Es una etiqueta simple y se utiliza para mostrar imágenes que complementan el contenido textual. Mejora la experiencia visual y puede ser parte clave del contenido. Se utiliza el atributo src para especificar la URL de la imagen.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <img src="logo.png" alt="Logo de JonaDev" width="200" height="100">
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiqueta de video</h3>
+    <p>Esta etiqueta se utiliza para incrustar archivos de video que se pueden reproducir directamente en el navegador, con controles de reproducción como pausa y volumen.  Se utiliza el atributo src para especificar la URL del video, el atributo controls para mostrar controles de reproducción, como el botón de play, barra de progreso, etc, el atributo poster para mostrar una imagen antes de que comience la reproducción y otros atributos que veremos mas adelante.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <video src="video.mp4" controls width="600" poster="imagen-inicial.png">
+      Tu navegador no soporta el elemento de video.
+    </video>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiquetas de audio</h3>
+    <p>Similar a la anterior. Se utiliza para agregar clips de audio, como música o efectos de sonido, con controles de reproducción. Los atributos son casi los mismos que los de la etiqueta de video.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <audio src="audio.mp3" controls>
+      Tu navegador no soporta el elemento de audio.
+    </audio>
+  </body>
+</html>
+```
+
+  </li>
+  <li>
+    <h3>Etiquetas de subtítulos y pistas de texto en videos</h3>
+    <p>La etiqueta track añade una pista de texto (subtítulos, transcripciones o descripciones) a los videos. Se usa dentro de la etiqueta video para proporcionar subtítulos o descripciones alternativas. Se utilizan los atributos kind, para definir el tipo de pista (por ejemplo, subtitles, captions, descriptions), el src para especificar la URL de la pista de subtítulos y srclang para especificar el idioma de la pista de texto.</p>
+    
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Bienvenidos a mi web</title>
+  </head>
+  <body>
+    <video controls>
+      <source src="video.mp4" type="video/mp4">
+      <track src="subtitulos.vtt" kind="subtitles" srclang="es" label="Español">
+    </video>
+  </body>
+</html>
+```
+
+  </li>
+</ol>
+<br><br>
+![Copia de githubport (1)](https://github.com/user-attachments/assets/7a718cb1-9020-44c1-8b44-853f23b1c482)
+
+<h2 align="center">Formularios avanzados.</h2>
+
+<p>Los formularios son una de las interacciones más comunes en la web. En este punto, vamos a ver cómo crear formularios más completos y accesibles.</p>
+
+<h3>Etiquetas y Atributos Avanzados para formularios.</h3>
+
+<ol>
+  <li>
+    <h3>input (tipos avanzados)</h3>
+    <p>Introducción a tipos avanzados de input</p>
+    <ul>
+      <li>type="email": Valida automáticamente que el usuario ingrese un formato de email válido.</li>
+      <li>type="password": proporcionan una forma para que el usuario ingrese una contraseña de forma segura.</li>
+      <li>type="url": Asegura que la entrada sea una URL.</li>
+      <li>type="number": Solo permite ingresar números y puede tener atributos como min, max y step para especificar rangos y valores aceptables.</li>
+      <li>type="date" y type="datetime-local": Permiten seleccionar fechas y tiempos con un selector gráfico.</li>
+      <li>type="range": Crea un control de rango deslizante, ideal para selecciones numéricas rápidas.</li>
+    </ul>
+    <br><br>
+    
+```html
+
+    <label for="email">Correo Electrónico:</label>
+    <input type="email" id="email" name="email" >
+    
+    <label for="date">Fecha de nacimiento:</label>
+    <input type="date" id="date" name="date">
+
+    <label for="range">Ingrese una contraseña:</label>
+    <input type="password">
+
+    <input type="submit" value="Enviar">
+
+```
+    
+  <li>
+    <h3>Nuevos Controles de Formularios</h3>
+    <ul>
+      <li>datalist: Crea una lista de sugerencias predefinidas para un campo de texto, útil para autocompletar.</li>
+      <li>output: Usado para mostrar el resultado de un cálculo o una operación dinámica en un formulario.</li>
+    </ul>
+    <br>
+    <br>
+    
+```html
+
+    <label for="ciudad">Ciudad:</label>
+    <input list="ciudades" id="ciudad" name="ciudad">
+    <datalist id="ciudades">
+      <option value="Buenos Aires">
+      <option value="Córdoba">
+      <option value="Rosario">
+    </datalist>
+
+    <form oninput="resultado.value=parseInt(a.value)+parseInt(b.value)">
+      <input type="number" id="a" name="a">
+        +
+      <input type="number" id="b" name="b">
+        =
+      <output name="resultado" for="a b">0</output>
+    </form>
+
+
+```
+
+  </li> 
+  <li>
+    <h3>Atributos de validación y constricciones.</h3>
+    <ul>
+      <li>required: Hace que un campo sea obligatorio.</li>
+      <li>pattern: Permite definir un patrón de expresión regular para validar el campo.</li>
+    </ul>
+    <br>
+    <br>
+
+```html
+
+    <input type="text" id="username" name="username" pattern="[a-zA-Z0-9]+" required>
+
+```
+
+  </li>
+</ol>
+
+<i>* Utilizando atributos como required, minlength, maxlength, pattern, entre otros. Estos permiten verificar los datos del formulario antes de ser enviados al servidor, mejorando la experiencia de usuario.</i>
+<br><br>
 
 ![Copia de githubport (6)](https://github.com/user-attachments/assets/c65a3398-6e33-4808-b96c-067839244998)
 
