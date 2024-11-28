@@ -524,7 +524,8 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
   </li>
 </ol>
 <br><br>
-![Copia de githubport (1)](https://github.com/user-attachments/assets/7a718cb1-9020-44c1-8b44-853f23b1c482)
+
+![Copia de githubport (11)](https://github.com/user-attachments/assets/0d7d9a7b-c74e-417f-9718-b99be8ed94a6)
 
 <h2 align="center">Formularios avanzados.</h2>
 
