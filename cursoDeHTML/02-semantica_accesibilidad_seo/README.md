@@ -328,13 +328,14 @@ En CSS, #id selecciona un único elemento, mientras que .class puede seleccionar
 
     <header>
       <h1>Título principal del sitio</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Acerca de</a></li>
+        </ul>
+      </nav>
     </header>
-    <nav>
-      <ul>
-        <li><a href="#">Inicio</a></li>
-        <li><a href="#">Acerca de</a></li>
-      </ul>
-    </nav>
+    
     <main>
       <section>
         <h2>Sección importante</h2>
